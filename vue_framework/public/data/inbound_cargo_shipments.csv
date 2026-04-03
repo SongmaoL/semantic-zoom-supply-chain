@@ -1,0 +1,1100 @@
+container_id,container_type,origin_port,origin_country,destination_port,destination_country,transit_days,shipment_status,quantity,category_lvl1,total_cargo_value_usd
+CONT401830,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,605,Unknown,60772.25
+CONT843461,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,417,Unknown,8456.76
+CONT787179,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,888,Home & Garden,102581.76
+CONT323112,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,60,Vehicles & Parts,4073.40
+CONT645729,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,543,Unknown,72762
+CONT493497,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,962,Unknown,90331.8
+CONT494786,40FT High Cube,Xiamen,China,Los Angeles,USA,23,Customs Clearance,606,Unknown,40765.62
+CONT605553,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,766,Sporting Goods,71490.78
+CONT859851,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,545,Home & Garden,56919.80
+CONT565218,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,144,Vehicles & Parts,25655.04
+CONT393484,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,391,Home & Garden,58732.11
+CONT989822,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,688,Home & Garden,100007.68
+CONT292619,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,445,Apparel & Accessories,48687.45
+CONT129494,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,484,Hardware,53172.24
+CONT720671,40FT Standard,Xiamen,China,Savannah,USA,27,In Transit,459,Vehicles & Parts,60932.25
+CONT962175,20FT Standard,Dalian,China,Charleston,USA,27,In Transit,567,Apparel & Accessories,21013.02
+CONT229937,20FT Standard,Dalian,China,Charleston,USA,27,In Transit,186,Hardware,5896.2
+CONT375084,20FT Standard,Dalian,China,Charleston,USA,27,In Transit,810,Home & Garden,74592.90
+CONT287611,20FT Standard,Dalian,China,Charleston,USA,27,In Transit,428,Toys & Games,13443.48
+CONT870910,20FT Standard,Dalian,China,Charleston,USA,27,In Transit,818,Health & Beauty,90307.2
+CONT987779,40FT Standard,Shenzhen,China,New York,USA,18,In Transit,299,Toys & Games,8198.58
+CONT523327,40FT Standard,Shenzhen,China,New York,USA,18,In Transit,428,Home & Garden,57488.96
+CONT352892,40FT Standard,Shenzhen,China,New York,USA,18,In Transit,937,Apparel & Accessories,53886.87
+CONT812783,40FT Standard,Shenzhen,China,New York,USA,18,In Transit,821,Apparel & Accessories,117427.63
+CONT529056,40FT Standard,Shenzhen,China,New York,USA,18,In Transit,827,Apparel & Accessories,123388.4
+CONT883940,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,50,Apparel & Accessories,7076.50
+CONT534420,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,83,Apparel & Accessories,10387.45
+CONT568286,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,778,Unknown,42393.22
+CONT662467,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,323,Apparel & Accessories,27739.24
+CONT166580,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,625,Unknown,65225.00
+CONT825845,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,493,Apparel & Accessories,84046.64
+CONT950175,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,321,Business & Industrial,59590.44
+CONT299698,45FT High Cube,Shenzhen,China,Savannah,USA,27,In Transit,259,Apparel & Accessories,10784.76
+CONT562788,20FT Standard,Guangzhou,China,Charleston,USA,28,Customs Clearance,921,Hardware,65446.26
+CONT373767,20FT Standard,Guangzhou,China,Charleston,USA,28,Customs Clearance,826,Apparel & Accessories,26803.70
+CONT690134,20FT Standard,Guangzhou,China,Charleston,USA,28,Customs Clearance,128,Apparel & Accessories,866.56
+CONT578800,40FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,490,Apparel & Accessories,7487.20
+CONT136797,40FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,776,Apparel & Accessories,96813.76
+CONT961838,40FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,327,Unknown,13174.83
+CONT272796,40FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,780,Vehicles & Parts,40255.80
+CONT805332,40FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,677,Home & Garden,32712.64
+CONT965309,40FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,552,Apparel & Accessories,89865.6
+CONT761847,45FT High Cube,Tianjin,China,New York,USA,29,Delivered,291,Sporting Goods,36264.42
+CONT896329,45FT High Cube,Tianjin,China,New York,USA,29,Delivered,454,Unknown,39175.66
+CONT317585,45FT High Cube,Tianjin,China,New York,USA,29,Delivered,588,Apparel & Accessories,24566.64
+CONT329247,45FT High Cube,Tianjin,China,New York,USA,29,Delivered,91,Toys & Games,8861.58
+CONT474956,20FT Reefer,Shanghai,China,New York,USA,25,Ready for Pickup,912,Unknown,112923.84
+CONT452219,20FT Reefer,Shanghai,China,New York,USA,25,Ready for Pickup,746,Unknown,122746.84
+CONT409987,20FT Reefer,Shanghai,China,New York,USA,25,Ready for Pickup,450,Mature,88906.50
+CONT418445,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,176,Home & Garden,14879.04
+CONT148138,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,779,Hardware,89849.86
+CONT247706,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,585,Hardware,48186.45
+CONT160889,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,479,Apparel & Accessories,83532.81
+CONT216299,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,692,Hardware,105806.8
+CONT191064,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,334,Electronics,38500.18
+CONT160431,45FT High Cube,Tianjin,China,Seattle,USA,24,Delivered,975,Unknown,89056.50
+CONT109284,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,301,Apparel & Accessories,46889.78
+CONT524899,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,160,Home & Garden,25260.80
+CONT333635,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,182,Apparel & Accessories,8239.14
+CONT453700,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,107,Electronics,5231.23
+CONT443738,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,849,Unknown,120082.56
+CONT727535,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,378,Electronics,33638.22
+CONT551316,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,856,Apparel & Accessories,24798.32
+CONT281757,20FT Standard,Qingdao,China,Charleston,USA,22,Customs Clearance,176,Apparel & Accessories,20218.88
+CONT638332,40FT High Cube,Ningbo,China,Los Angeles,USA,23,Arrived at Port,442,Unknown,70644.86
+CONT846105,40FT High Cube,Ningbo,China,Los Angeles,USA,23,Arrived at Port,696,Unknown,75251.52
+CONT224300,40FT High Cube,Ningbo,China,Los Angeles,USA,23,Arrived at Port,143,Apparel & Accessories,5861.57
+CONT510333,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,833,Unknown,154979.65
+CONT110435,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,956,Health & Beauty,65715.44
+CONT203984,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,381,Unknown,40157.4
+CONT176704,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,712,Apparel & Accessories,105746.24
+CONT459700,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,469,Electronics,54563.46
+CONT657893,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,928,Hardware,63985.60
+CONT154492,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,722,Apparel & Accessories,17161.94
+CONT369382,40FT Standard,Guangzhou,China,Long Beach,USA,19,Ready for Pickup,263,Home & Garden,19803.9
+CONT684943,40FT High Cube,Tianjin,China,New York,USA,16,Arrived at Port,619,Unknown,12132.4
+CONT803449,40FT High Cube,Tianjin,China,New York,USA,16,Arrived at Port,772,Hardware,90015.2
+CONT278385,40FT High Cube,Tianjin,China,New York,USA,16,Arrived at Port,244,Home & Garden,14735.16
+CONT848226,45FT High Cube,Guangzhou,China,Long Beach,USA,23,In Transit,920,Apparel & Accessories,79460.40
+CONT743785,45FT High Cube,Guangzhou,China,Long Beach,USA,23,In Transit,892,Unknown,157429.08
+CONT491973,45FT High Cube,Guangzhou,China,Long Beach,USA,23,In Transit,196,Hardware,33521.88
+CONT601619,45FT High Cube,Guangzhou,China,Long Beach,USA,23,In Transit,997,Toys & Games,34685.63
+CONT724470,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,757,Apparel & Accessories,37448.79
+CONT442453,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,509,Apparel & Accessories,53073.43
+CONT640452,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,187,Electronics,14202.65
+CONT312945,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,921,Home & Garden,71570.91
+CONT723757,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,227,Vehicles & Parts,38698.96
+CONT298094,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,974,Electronics,121545.46
+CONT500722,45FT High Cube,Guangzhou,China,Savannah,USA,17,Arrived at Port,727,Apparel & Accessories,7313.62
+CONT595622,20FT Standard,Guangzhou,China,Charleston,USA,19,Delivered,286,Unknown,39668.2
+CONT494877,20FT Standard,Guangzhou,China,Charleston,USA,19,Delivered,763,Unknown,92551.9
+CONT947439,20FT Standard,Guangzhou,China,Charleston,USA,19,Delivered,985,Hardware,22497.40
+CONT200352,20FT Standard,Guangzhou,China,Charleston,USA,19,Delivered,670,Unknown,105719.30
+CONT574165,20FT Standard,Guangzhou,China,Charleston,USA,19,Delivered,325,Electronics,23208.25
+CONT993151,20FT Standard,Guangzhou,China,Charleston,USA,19,Delivered,141,Unknown,10046.25
+CONT956909,40FT Standard,Dalian,China,Oakland,USA,27,In Transit,422,Apparel & Accessories,7743.70
+CONT788288,40FT Standard,Dalian,China,Oakland,USA,27,In Transit,246,Toys & Games,43842.12
+CONT526950,40FT Standard,Dalian,China,Oakland,USA,27,In Transit,621,Apparel & Accessories,6688.17
+CONT721538,45FT High Cube,Tianjin,China,Los Angeles,USA,24,Customs Clearance,953,Apparel & Accessories,8386.4
+CONT364902,45FT High Cube,Tianjin,China,Los Angeles,USA,24,Customs Clearance,776,Toys & Games,42245.44
+CONT738038,45FT High Cube,Tianjin,China,Los Angeles,USA,24,Customs Clearance,771,Unknown,80076.06
+CONT869936,45FT High Cube,Tianjin,China,Los Angeles,USA,24,Customs Clearance,443,Apparel & Accessories,68217.57
+CONT317846,45FT High Cube,Tianjin,China,Long Beach,USA,28,In Transit,591,Apparel & Accessories,62711.01
+CONT135503,45FT High Cube,Tianjin,China,Long Beach,USA,28,In Transit,133,Arts & Entertainment,17768.8
+CONT641442,45FT High Cube,Tianjin,China,Long Beach,USA,28,In Transit,711,Apparel & Accessories,69955.29
+CONT293237,45FT High Cube,Tianjin,China,Long Beach,USA,28,In Transit,224,Unknown,24787.84
+CONT519114,45FT High Cube,Tianjin,China,Long Beach,USA,28,In Transit,103,Unknown,13937.96
+CONT269094,45FT High Cube,Tianjin,China,Long Beach,USA,28,In Transit,280,Unknown,37464.0
+CONT754173,40FT High Cube,Shenzhen,China,Long Beach,USA,19,Arrived at Port,214,Electronics,16268.28
+CONT819333,40FT High Cube,Shenzhen,China,Long Beach,USA,19,Arrived at Port,121,Arts & Entertainment,3569.5
+CONT890070,40FT High Cube,Shenzhen,China,Long Beach,USA,19,Arrived at Port,187,Unknown,17013.26
+CONT649750,40FT High Cube,Shenzhen,China,Long Beach,USA,19,Arrived at Port,583,Vehicles & Parts,21786.71
+CONT303046,40FT High Cube,Shenzhen,China,Long Beach,USA,19,Arrived at Port,480,Unknown,82780.80
+CONT823078,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,269,Apparel & Accessories,10332.29
+CONT425179,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,222,Unknown,26462.4
+CONT548922,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,539,Apparel & Accessories,15528.59
+CONT208597,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,501,Home & Garden,56597.97
+CONT447137,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,764,Apparel & Accessories,124837.6
+CONT898572,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,391,Unknown,12468.99
+CONT340785,45FT High Cube,Shanghai,China,Savannah,USA,21,Delivered,311,Unknown,18230.82
+CONT164059,20FT Standard,Qingdao,China,Seattle,USA,26,In Transit,482,Apparel & Accessories,69735.76
+CONT389071,20FT Standard,Qingdao,China,Seattle,USA,26,In Transit,205,Unknown,26980.05
+CONT239258,20FT Standard,Qingdao,China,Seattle,USA,26,In Transit,159,Unknown,1434.18
+CONT522209,20FT Standard,Qingdao,China,Seattle,USA,26,In Transit,305,Home & Garden,13807.35
+CONT291282,20FT Standard,Qingdao,China,Seattle,USA,26,In Transit,160,Apparel & Accessories,11620.80
+CONT783918,20FT Standard,Qingdao,China,Seattle,USA,26,In Transit,915,Electronics,95498.55
+CONT163053,45FT High Cube,Ningbo,China,Oakland,USA,16,Customs Clearance,665,Home & Garden,39866.75
+CONT784568,45FT High Cube,Ningbo,China,Oakland,USA,16,Customs Clearance,62,Hardware,8812.68
+CONT680150,45FT High Cube,Ningbo,China,Oakland,USA,16,Customs Clearance,795,Unknown,151693.95
+CONT374712,20FT Reefer,Tianjin,China,Oakland,USA,28,In Transit,89,Home & Garden,1649.17
+CONT183387,20FT Reefer,Tianjin,China,Oakland,USA,28,In Transit,59,Hardware,7176.17
+CONT850542,20FT Reefer,Tianjin,China,Oakland,USA,28,In Transit,848,Home & Garden,53059.36
+CONT668775,45FT High Cube,Ningbo,China,Seattle,USA,23,Delivered,397,Apparel & Accessories,34217.43
+CONT917042,45FT High Cube,Ningbo,China,Seattle,USA,23,Delivered,399,Home & Garden,65874.9
+CONT493083,45FT High Cube,Ningbo,China,Seattle,USA,23,Delivered,383,Sporting Goods,62467.3
+CONT409235,45FT High Cube,Ningbo,China,Seattle,USA,23,Delivered,429,Apparel & Accessories,48095.19
+CONT429382,45FT High Cube,Ningbo,China,Seattle,USA,23,Delivered,396,Luggage & Bags,21015.72
+CONT314132,45FT High Cube,Ningbo,China,Seattle,USA,23,Delivered,522,Unknown,59340.96
+CONT546617,40FT High Cube,Guangzhou,China,Los Angeles,USA,28,In Transit,941,Unknown,53072.4
+CONT715020,40FT High Cube,Guangzhou,China,Los Angeles,USA,28,In Transit,157,Vehicles & Parts,27850.23
+CONT473286,40FT High Cube,Guangzhou,China,Los Angeles,USA,28,In Transit,197,Apparel & Accessories,17785.16
+CONT743000,40FT High Cube,Guangzhou,China,Los Angeles,USA,28,In Transit,342,Toys & Games,20349.0
+CONT580150,40FT High Cube,Guangzhou,China,Los Angeles,USA,28,In Transit,862,Unknown,94699.32
+CONT928684,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,77,Unknown,7208.74
+CONT912660,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,993,Unknown,163209.48
+CONT112638,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,121,Hardware,10311.62
+CONT633965,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,887,Unknown,15966
+CONT973611,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,940,Home & Garden,138471.40
+CONT837507,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,248,Health & Beauty,45966.80
+CONT173439,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,488,Arts & Entertainment,14396.0
+CONT134871,45FT High Cube,Shenzhen,China,Los Angeles,USA,25,Customs Clearance,409,Cameras & Optics,57317.26
+CONT243615,45FT High Cube,Guangzhou,China,Los Angeles,USA,15,In Transit,460,Apparel & Accessories,86779.00
+CONT820094,45FT High Cube,Guangzhou,China,Los Angeles,USA,15,In Transit,486,Apparel & Accessories,68783.58
+CONT691973,45FT High Cube,Guangzhou,China,Los Angeles,USA,15,In Transit,839,Apparel & Accessories,55952.91
+CONT438925,45FT High Cube,Guangzhou,China,Los Angeles,USA,15,In Transit,996,Apparel & Accessories,44790.12
+CONT123483,40FT Standard,Ningbo,China,Oakland,USA,17,In Transit,683,Unknown,11330.97
+CONT918057,40FT Standard,Ningbo,China,Oakland,USA,17,In Transit,396,Apparel & Accessories,62512.56
+CONT177133,40FT Standard,Ningbo,China,Oakland,USA,17,In Transit,811,Unknown,53501.67
+CONT545477,40FT Standard,Ningbo,China,Oakland,USA,17,In Transit,981,Home & Garden,174853.44
+CONT263380,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,491,Apparel & Accessories,35808.63
+CONT441591,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,869,Unknown,115802.94
+CONT622230,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,700,Home & Garden,34930.0
+CONT977875,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,967,Electronics,10105.15
+CONT701333,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,440,Apparel & Accessories,87023.20
+CONT826637,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,627,Apparel & Accessories,66687.72
+CONT367680,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,388,Home & Garden,57521.00
+CONT133424,20FT Reefer,Xiamen,China,Charleston,USA,26,In Transit,995,Home & Garden,70744.5
+CONT523224,20FT Reefer,Qingdao,China,Long Beach,USA,16,Delivered,109,Apparel & Accessories,17094.47
+CONT354788,20FT Reefer,Qingdao,China,Long Beach,USA,16,Delivered,514,Unknown,66511.6
+CONT108385,20FT Reefer,Qingdao,China,Long Beach,USA,16,Delivered,492,Apparel & Accessories,14961.72
+CONT936798,20FT Reefer,Qingdao,China,Long Beach,USA,16,Delivered,442,Apparel & Accessories,30148.82
+CONT936756,20FT Reefer,Qingdao,China,Long Beach,USA,16,Delivered,218,Electronics,20230.4
+CONT737926,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,105,Unknown,2819.25
+CONT808777,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,785,Unknown,110465.20
+CONT843918,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,126,Apparel & Accessories,19149.48
+CONT152210,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,634,Home & Garden,34990.46
+CONT163978,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,761,Apparel & Accessories,145442.32
+CONT412019,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,729,Furniture,77208.39
+CONT897204,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,649,Health & Beauty,78639.33
+CONT859126,45FT High Cube,Shanghai,China,Savannah,USA,17,Customs Clearance,385,Home & Garden,42496.30
+CONT933862,40FT High Cube,Shenzhen,China,Oakland,USA,17,In Transit,385,Home & Garden,10060.05
+CONT877738,40FT High Cube,Shenzhen,China,Oakland,USA,17,In Transit,321,Apparel & Accessories,3158.64
+CONT177371,40FT High Cube,Shenzhen,China,Oakland,USA,17,In Transit,51,Home & Garden,644.13
+CONT321765,40FT High Cube,Shenzhen,China,Oakland,USA,17,In Transit,428,Apparel & Accessories,72062.36
+CONT724900,40FT High Cube,Shenzhen,China,Oakland,USA,17,In Transit,193,Electronics,7926.51
+CONT820288,40FT Standard,Shenzhen,China,Charleston,USA,18,Arrived at Port,711,Electronics,23164.38
+CONT187720,40FT Standard,Shenzhen,China,Charleston,USA,18,Arrived at Port,257,Apparel & Accessories,16286.09
+CONT258300,40FT Standard,Shenzhen,China,Charleston,USA,18,Arrived at Port,741,Home & Garden,135343.65
+CONT857226,40FT Standard,Shenzhen,China,Charleston,USA,18,Arrived at Port,407,Home & Garden,49495.27
+CONT520776,40FT Standard,Shenzhen,China,Charleston,USA,18,Arrived at Port,611,Apparel & Accessories,22851.4
+CONT818748,40FT Standard,Shenzhen,China,Charleston,USA,18,Arrived at Port,403,Apparel & Accessories,65556.01
+CONT927259,45FT High Cube,Qingdao,China,Savannah,USA,28,Customs Clearance,719,Home & Garden,94210.57
+CONT436877,45FT High Cube,Qingdao,China,Savannah,USA,28,Customs Clearance,277,Apparel & Accessories,6332.22
+CONT448532,45FT High Cube,Qingdao,China,Savannah,USA,28,Customs Clearance,952,Health & Beauty,11090.80
+CONT703048,45FT High Cube,Qingdao,China,Savannah,USA,28,Customs Clearance,96,Business & Industrial,14275.2
+CONT665839,45FT High Cube,Qingdao,China,Savannah,USA,28,Customs Clearance,921,Electronics,39833.25
+CONT194192,45FT High Cube,Qingdao,China,Savannah,USA,28,Customs Clearance,449,Health & Beauty,57660.58
+CONT690375,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,156,Electronics,2778.36
+CONT254951,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,602,Unknown,94285.24
+CONT690171,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,72,Apparel & Accessories,10687.68
+CONT617097,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,741,Unknown,131623.83
+CONT977241,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,475,Sporting Goods,43576.50
+CONT391583,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,360,Toys & Games,5090.40
+CONT343712,45FT High Cube,Ningbo,China,Savannah,USA,26,In Transit,909,Electronics,24633.9
+CONT888196,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,735,Unknown,41299.65
+CONT642525,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,91,Apparel & Accessories,8758.75
+CONT163531,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,757,Hardware,105132.16
+CONT713357,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,228,Apparel & Accessories,22239.12
+CONT622726,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,86,Unknown,2131.94
+CONT647847,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,730,Apparel & Accessories,76014.90
+CONT166950,45FT High Cube,Ningbo,China,Long Beach,USA,17,Delivered,98,Home & Garden,10193.96
+CONT556007,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,821,Unknown,25697.3
+CONT313809,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,110,Arts & Entertainment,7653.80
+CONT267549,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,891,Apparel & Accessories,75227.13
+CONT182789,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,63,Home & Garden,6103.44
+CONT267509,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,485,Apparel & Accessories,26476.15
+CONT614816,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,167,Hardware,10594.48
+CONT387204,40FT High Cube,Shanghai,China,Oakland,USA,26,In Transit,193,Unknown,9997.4
+CONT677231,45FT High Cube,Tianjin,China,Oakland,USA,18,In Transit,692,Home & Garden,4020.52
+CONT585422,45FT High Cube,Tianjin,China,Oakland,USA,18,In Transit,267,Home & Garden,8439.87
+CONT256774,45FT High Cube,Tianjin,China,Oakland,USA,18,In Transit,136,Home & Garden,26309.20
+CONT887245,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,72,Unknown,3772.8
+CONT155874,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,753,Apparel & Accessories,71670.54
+CONT637900,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,69,Unknown,6555
+CONT779587,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,598,Home & Garden,72704.84
+CONT679089,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,236,Unknown,30646.96
+CONT443842,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,709,Apparel & Accessories,56776.72
+CONT160690,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,481,Unknown,72549.23
+CONT658700,40FT High Cube,Xiamen,China,Savannah,USA,29,Ready for Pickup,343,Apparel & Accessories,65468.41
+CONT140684,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,312,Health & Beauty,47954.4
+CONT292631,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,700,Unknown,51758.00
+CONT615738,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,573,Unknown,47094.87
+CONT419366,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,137,Unknown,12791.69
+CONT745545,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,997,Apparel & Accessories,102381.93
+CONT413608,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,945,Home & Garden,29077.65
+CONT866960,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,899,Apparel & Accessories,152227.67
+CONT753174,45FT High Cube,Shanghai,China,Seattle,USA,21,In Transit,386,Health & Beauty,72317.10
+CONT793413,45FT High Cube,Tianjin,China,Seattle,USA,28,Ready for Pickup,318,Apparel & Accessories,12246.18
+CONT277303,45FT High Cube,Tianjin,China,Seattle,USA,28,Ready for Pickup,636,Home & Garden,122646.24
+CONT307407,45FT High Cube,Tianjin,China,Seattle,USA,28,Ready for Pickup,151,Unknown,16741.37
+CONT508307,45FT High Cube,Tianjin,China,Seattle,USA,28,Ready for Pickup,611,Apparel & Accessories,102959.61
+CONT777463,45FT High Cube,Tianjin,China,Seattle,USA,28,Ready for Pickup,471,Hardware,62374.53
+CONT514271,20FT Reefer,Shanghai,China,Los Angeles,USA,26,In Transit,728,Arts & Entertainment,124611.76
+CONT881802,20FT Reefer,Shanghai,China,Los Angeles,USA,26,In Transit,428,Apparel & Accessories,56868.36
+CONT922687,20FT Reefer,Shanghai,China,Los Angeles,USA,26,In Transit,714,Home & Garden,105236.46
+CONT778804,20FT Reefer,Shanghai,China,Los Angeles,USA,26,In Transit,219,Hardware,27105.63
+CONT574998,20FT Reefer,Shanghai,China,Los Angeles,USA,26,In Transit,850,Electronics,129089.50
+CONT292189,20FT Reefer,Shanghai,China,Los Angeles,USA,26,In Transit,890,Apparel & Accessories,31274.60
+CONT553795,20FT Reefer,Xiamen,China,Los Angeles,USA,23,In Transit,323,Unknown,27180.45
+CONT886878,20FT Reefer,Xiamen,China,Los Angeles,USA,23,In Transit,760,Unknown,28811.60
+CONT436232,20FT Reefer,Xiamen,China,Los Angeles,USA,23,In Transit,817,Apparel & Accessories,47745.48
+CONT879833,20FT Reefer,Xiamen,China,Los Angeles,USA,23,In Transit,601,Apparel & Accessories,52124.73
+CONT135898,20FT Reefer,Xiamen,China,Los Angeles,USA,23,In Transit,881,Unknown,134017.72
+CONT775514,40FT High Cube,Tianjin,China,Los Angeles,USA,20,In Transit,392,Unknown,20070.4
+CONT700080,40FT High Cube,Tianjin,China,Los Angeles,USA,20,In Transit,487,Home & Garden,20848.47
+CONT188507,40FT High Cube,Tianjin,China,Los Angeles,USA,20,In Transit,619,Apparel & Accessories,71296.42
+CONT910463,40FT High Cube,Tianjin,China,Los Angeles,USA,20,In Transit,54,Unknown,4449.6
+CONT774975,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,505,Apparel & Accessories,20432.30
+CONT767941,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,620,"Food, Beverages & Tobacco",84437.80
+CONT776844,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,778,Sporting Goods,112988.94
+CONT583773,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,801,Sporting Goods,136730.7
+CONT302419,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,988,Vehicles & Parts,186959.24
+CONT517154,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,501,Toys & Games,39513.87
+CONT548377,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,968,Home & Garden,60751.68
+CONT378193,20FT Standard,Qingdao,China,Charleston,USA,22,Arrived at Port,437,Home & Garden,54764.84
+CONT851871,40FT High Cube,Shanghai,China,Charleston,USA,21,Ready for Pickup,714,Apparel & Accessories,70964.46
+CONT942119,40FT High Cube,Shanghai,China,Charleston,USA,21,Ready for Pickup,626,Electronics,9415.04
+CONT876833,40FT High Cube,Shanghai,China,Charleston,USA,21,Ready for Pickup,273,Arts & Entertainment,36622.95
+CONT361341,40FT High Cube,Shanghai,China,Charleston,USA,21,Ready for Pickup,943,Apparel & Accessories,112367.88
+CONT304984,40FT High Cube,Shanghai,China,Charleston,USA,21,Ready for Pickup,240,Unknown,46212.00
+CONT977644,40FT High Cube,Shanghai,China,Charleston,USA,21,Ready for Pickup,852,Unknown,131412.48
+CONT316578,40FT High Cube,Shanghai,China,Los Angeles,USA,16,Delivered,175,Home & Garden,32614.75
+CONT555276,40FT High Cube,Shanghai,China,Los Angeles,USA,16,Delivered,690,Unknown,120832.80
+CONT758458,40FT High Cube,Shanghai,China,Los Angeles,USA,16,Delivered,331,Home & Garden,54648.1
+CONT717254,40FT High Cube,Shanghai,China,Los Angeles,USA,16,Delivered,723,Electronics,133718.85
+CONT850433,40FT High Cube,Shanghai,China,Los Angeles,USA,16,Delivered,566,Toys & Games,91227.88
+CONT555322,40FT High Cube,Shanghai,China,Los Angeles,USA,16,Delivered,751,Apparel & Accessories,115240.95
+CONT933562,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,962,Electronics,22174.10
+CONT694248,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,282,Apparel & Accessories,22165.2
+CONT376539,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,498,Apparel & Accessories,78101.34
+CONT795405,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,365,Health & Beauty,71744.40
+CONT924580,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,354,Apparel & Accessories,46243.02
+CONT650636,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,95,Apparel & Accessories,7723.5
+CONT636599,40FT Standard,Qingdao,China,Los Angeles,USA,22,In Transit,739,Unknown,132916.54
+CONT211569,45FT High Cube,Tianjin,China,Los Angeles,USA,29,In Transit,900,Home & Garden,59211.00
+CONT232243,45FT High Cube,Tianjin,China,Los Angeles,USA,29,In Transit,132,Unknown,16851.12
+CONT181554,45FT High Cube,Tianjin,China,Los Angeles,USA,29,In Transit,246,Home & Garden,45222.18
+CONT754867,45FT High Cube,Tianjin,China,Los Angeles,USA,29,In Transit,525,Electronics,32970.0
+CONT950586,45FT High Cube,Tianjin,China,Los Angeles,USA,29,In Transit,225,Unknown,25071.75
+CONT557114,45FT High Cube,Tianjin,China,Los Angeles,USA,29,In Transit,869,Apparel & Accessories,170445.66
+CONT756950,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,375,Apparel & Accessories,49068.75
+CONT643776,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,704,Unknown,3611.52
+CONT734407,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,432,Apparel & Accessories,28231.20
+CONT977613,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,707,Apparel & Accessories,19781.86
+CONT106438,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,197,Home & Garden,36697.16
+CONT722248,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,147,Unknown,2720.97
+CONT613357,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,421,Apparel & Accessories,75657.91
+CONT374270,20FT Reefer,Ningbo,China,Seattle,USA,18,Arrived at Port,757,Vehicles & Parts,140620.32
+CONT204313,40FT High Cube,Shanghai,China,New York,USA,25,In Transit,756,Hardware,35902.44
+CONT308690,40FT High Cube,Shanghai,China,New York,USA,25,In Transit,585,Arts & Entertainment,85819.5
+CONT573484,40FT High Cube,Shanghai,China,New York,USA,25,In Transit,827,Apparel & Accessories,161306.35
+CONT855795,40FT High Cube,Shanghai,China,New York,USA,25,In Transit,149,Apparel & Accessories,7312.92
+CONT918274,40FT High Cube,Shanghai,China,New York,USA,25,In Transit,94,Apparel & Accessories,4148.22
+CONT809016,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,647,Unknown,48013.87
+CONT884413,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,877,Unknown,97653.95
+CONT522287,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,590,Unknown,108925.80
+CONT724961,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,187,Unknown,36494.92
+CONT984160,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,806,Unknown,85073.30
+CONT409408,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,68,Home & Garden,6256.68
+CONT142128,20FT Standard,Shanghai,China,Charleston,USA,22,Ready for Pickup,854,Apparel & Accessories,99029.84
+CONT639471,40FT High Cube,Shanghai,China,Charleston,USA,16,Arrived at Port,931,Apparel & Accessories,164228.4
+CONT492218,40FT High Cube,Shanghai,China,Charleston,USA,16,Arrived at Port,635,Hardware,72739.25
+CONT104773,40FT High Cube,Shanghai,China,Charleston,USA,16,Arrived at Port,138,Unknown,20241.84
+CONT871077,40FT High Cube,Shanghai,China,Charleston,USA,16,Arrived at Port,392,Apparel & Accessories,66275.44
+CONT337814,40FT High Cube,Shanghai,China,Charleston,USA,16,Arrived at Port,115,Unknown,17494.95
+CONT819289,40FT High Cube,Shanghai,China,Charleston,USA,16,Arrived at Port,227,Electronics,44074.32
+CONT336230,20FT Reefer,Tianjin,China,Oakland,USA,28,Delivered,445,Electronics,70884.05
+CONT863948,20FT Reefer,Tianjin,China,Oakland,USA,28,Delivered,130,Apparel & Accessories,15282.80
+CONT599697,20FT Reefer,Tianjin,China,Oakland,USA,28,Delivered,94,Apparel & Accessories,3573.88
+CONT698913,20FT Reefer,Tianjin,China,Oakland,USA,28,Delivered,536,Unknown,41534.64
+CONT843853,20FT Reefer,Tianjin,China,Oakland,USA,28,Delivered,891,Apparel & Accessories,160335.45
+CONT476869,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,545,Apparel & Accessories,79368.35
+CONT464581,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,404,Electronics,15877.2
+CONT710629,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,467,Apparel & Accessories,31625.24
+CONT954514,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,725,Apparel & Accessories,29021.75
+CONT460443,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,143,Home & Garden,25428.26
+CONT837864,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,413,Arts & Entertainment,19881.82
+CONT606744,40FT Standard,Qingdao,China,Long Beach,USA,17,Ready for Pickup,772,Unknown,48118.76
+CONT979826,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,242,Apparel & Accessories,32215.04
+CONT955661,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,261,Home & Garden,38437.47
+CONT296319,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,170,Unknown,30511.60
+CONT411017,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,536,Unknown,91907.92
+CONT139407,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,708,Vehicles & Parts,6740.16
+CONT678706,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,801,Unknown,58368.87
+CONT165073,20FT Reefer,Guangzhou,China,Savannah,USA,22,Arrived at Port,749,Unknown,78412.81
+CONT789547,40FT High Cube,Dalian,China,Charleston,USA,25,Arrived at Port,524,Unknown,66668.52
+CONT884042,40FT High Cube,Dalian,China,Charleston,USA,25,Arrived at Port,152,Apparel & Accessories,22143.36
+CONT680498,40FT High Cube,Dalian,China,Charleston,USA,25,Arrived at Port,993,Hardware,192502.98
+CONT595392,40FT High Cube,Dalian,China,Charleston,USA,25,Arrived at Port,138,Electronics,11654.10
+CONT602617,40FT High Cube,Dalian,China,Charleston,USA,25,Arrived at Port,744,Unknown,14946.96
+CONT999990,40FT High Cube,Dalian,China,Charleston,USA,25,Arrived at Port,179,Electronics,12046.7
+CONT514969,45FT High Cube,Qingdao,China,Oakland,USA,22,In Transit,101,Hardware,10623.18
+CONT434787,45FT High Cube,Qingdao,China,Oakland,USA,22,In Transit,358,Health & Beauty,4227.98
+CONT801325,45FT High Cube,Qingdao,China,Oakland,USA,22,In Transit,358,Electronics,18716.24
+CONT154051,45FT High Cube,Qingdao,China,Oakland,USA,22,In Transit,377,Apparel & Accessories,26420.16
+CONT474665,45FT High Cube,Qingdao,China,Oakland,USA,22,In Transit,434,Apparel & Accessories,57478.96
+CONT399397,45FT High Cube,Qingdao,China,Oakland,USA,22,In Transit,354,Hardware,18354.90
+CONT473117,20FT Reefer,Shanghai,China,Seattle,USA,20,In Transit,764,Apparel & Accessories,30781.56
+CONT410696,20FT Reefer,Shanghai,China,Seattle,USA,20,In Transit,864,Hardware,85311.36
+CONT376227,20FT Reefer,Shanghai,China,Seattle,USA,20,In Transit,806,Sporting Goods,11936.86
+CONT919185,20FT Reefer,Shanghai,China,Seattle,USA,20,In Transit,884,Unknown,141475.36
+CONT203966,20FT Reefer,Shanghai,China,Seattle,USA,20,In Transit,652,Home & Garden,119857.16
+CONT909880,20FT Reefer,Xiamen,China,Oakland,USA,21,In Transit,945,Apparel & Accessories,87138.45
+CONT387298,20FT Reefer,Xiamen,China,Oakland,USA,21,In Transit,214,Apparel & Accessories,11172.94
+CONT190560,20FT Reefer,Xiamen,China,Oakland,USA,21,In Transit,469,Apparel & Accessories,70715.82
+CONT756832,20FT Reefer,Xiamen,China,Oakland,USA,21,In Transit,528,Unknown,92447.52
+CONT968522,20FT Reefer,Xiamen,China,Oakland,USA,21,In Transit,595,Unknown,64188.60
+CONT367922,45FT High Cube,Ningbo,China,Savannah,USA,21,In Transit,950,Apparel & Accessories,83695.0
+CONT991616,45FT High Cube,Ningbo,China,Savannah,USA,21,In Transit,942,Home & Garden,41448
+CONT458830,45FT High Cube,Ningbo,China,Savannah,USA,21,In Transit,719,Apparel & Accessories,79888.09
+CONT392119,45FT High Cube,Ningbo,China,Savannah,USA,21,In Transit,374,Unknown,44749.10
+CONT818373,45FT High Cube,Ningbo,China,Savannah,USA,21,In Transit,399,Home & Garden,60875.43
+CONT227505,45FT High Cube,Ningbo,China,Savannah,USA,21,In Transit,140,Apparel & Accessories,23790.20
+CONT382042,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,329,Office Supplies,5698.28
+CONT890032,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,453,Apparel & Accessories,20357.82
+CONT871802,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,202,Apparel & Accessories,20159.6
+CONT843380,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,355,Home & Garden,36476.25
+CONT870181,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,78,Electronics,14374.62
+CONT578164,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,673,Unknown,21542.73
+CONT640750,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,357,Health & Beauty,24711.54
+CONT674873,40FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,926,Unknown,143678.16
+CONT646041,45FT High Cube,Dalian,China,Long Beach,USA,22,Ready for Pickup,718,Cameras & Optics,116933.48
+CONT972880,45FT High Cube,Dalian,China,Long Beach,USA,22,Ready for Pickup,969,Apparel & Accessories,79574.28
+CONT220687,45FT High Cube,Dalian,China,Long Beach,USA,22,Ready for Pickup,506,Home & Garden,31802.10
+CONT631359,45FT High Cube,Dalian,China,Long Beach,USA,22,Ready for Pickup,403,Unknown,59591.61
+CONT680596,45FT High Cube,Dalian,China,Long Beach,USA,22,Ready for Pickup,614,Apparel & Accessories,52932.94
+CONT826725,45FT High Cube,Dalian,China,Long Beach,USA,22,Ready for Pickup,614,Apparel & Accessories,100088.14
+CONT131536,40FT High Cube,Dalian,China,Charleston,USA,27,Arrived at Port,198,Home & Garden,18315.0
+CONT976321,40FT High Cube,Dalian,China,Charleston,USA,27,Arrived at Port,864,Unknown,131578.56
+CONT176739,40FT High Cube,Dalian,China,Charleston,USA,27,Arrived at Port,966,Apparel & Accessories,126430.08
+CONT841582,40FT High Cube,Dalian,China,Charleston,USA,27,Arrived at Port,562,Apparel & Accessories,106875.54
+CONT875708,40FT High Cube,Dalian,China,Charleston,USA,27,Arrived at Port,205,Apparel & Accessories,10377.10
+CONT447423,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,411,Apparel & Accessories,16990.74
+CONT725721,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,228,Unknown,27542.4
+CONT195386,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,892,Apparel & Accessories,170318.48
+CONT299546,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,200,Home & Garden,4000
+CONT809371,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,347,Electronics,48684.1
+CONT588805,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,436,Health & Beauty,82513.00
+CONT309154,40FT Standard,Ningbo,China,Los Angeles,USA,26,Delivered,810,Arts & Entertainment,59397.30
+CONT873466,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,451,Apparel & Accessories,13065.47
+CONT931128,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,336,Hardware,40635.84
+CONT974663,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,793,Unknown,148901.61
+CONT152076,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,214,Mature,20473.38
+CONT364765,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,975,Unknown,153211.50
+CONT670827,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,597,Apparel & Accessories,81084.54
+CONT921652,20FT Reefer,Shanghai,China,Long Beach,USA,29,Delivered,255,Unknown,29248.5
+CONT193741,40FT Standard,Shenzhen,China,Oakland,USA,18,Customs Clearance,949,Unknown,120380.65
+CONT805908,40FT Standard,Shenzhen,China,Oakland,USA,18,Customs Clearance,320,Vehicles & Parts,42480.00
+CONT712872,40FT Standard,Shenzhen,China,Oakland,USA,18,Customs Clearance,585,Health & Beauty,90353.25
+CONT539510,40FT Standard,Shenzhen,China,Oakland,USA,18,Customs Clearance,287,Hardware,8535.38
+CONT329858,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,893,Arts & Entertainment,33862.56
+CONT643822,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,317,Unknown,61998.86
+CONT302315,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,65,Unknown,4439.5
+CONT192258,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,860,Apparel & Accessories,51806.40
+CONT708796,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,495,Apparel & Accessories,57014.10
+CONT696243,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,487,Home & Garden,61999.97
+CONT146790,20FT Reefer,Qingdao,China,Los Angeles,USA,24,Arrived at Port,61,Unknown,8099.58
+CONT645826,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,720,Electronics,91879.20
+CONT486459,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,410,Apparel & Accessories,6793.70
+CONT239326,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,236,Apparel & Accessories,11783.48
+CONT523837,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,920,Home & Garden,70610.00
+CONT303035,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,654,Apparel & Accessories,34151.88
+CONT704268,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,517,Home & Garden,25379.53
+CONT872179,40FT Standard,Qingdao,China,Seattle,USA,23,Delivered,635,Electronics,58928.0
+CONT376115,40FT High Cube,Shenzhen,China,Oakland,USA,26,In Transit,601,Unknown,61079.63
+CONT131967,40FT High Cube,Shenzhen,China,Oakland,USA,26,In Transit,128,Animals & Pet Supplies,22576.64
+CONT524415,40FT High Cube,Shenzhen,China,Oakland,USA,26,In Transit,404,Toys & Games,21933.16
+CONT275877,40FT High Cube,Shenzhen,China,Oakland,USA,26,In Transit,584,Apparel & Accessories,100979.44
+CONT343941,40FT High Cube,Shenzhen,China,Oakland,USA,26,In Transit,358,Apparel & Accessories,20588.58
+CONT134803,40FT High Cube,Shenzhen,China,Oakland,USA,26,In Transit,757,Unknown,22096.83
+CONT279354,20FT Standard,Xiamen,China,Oakland,USA,28,In Transit,728,Electronics,100056.32
+CONT364028,20FT Standard,Xiamen,China,Oakland,USA,28,In Transit,884,Apparel & Accessories,46197.84
+CONT382559,20FT Standard,Xiamen,China,Oakland,USA,28,In Transit,734,Apparel & Accessories,75734.12
+CONT967917,20FT Standard,Xiamen,China,Oakland,USA,28,In Transit,214,Unknown,4727.26
+CONT545064,20FT Standard,Xiamen,China,Oakland,USA,28,In Transit,723,Health & Beauty,131846.28
+CONT634303,40FT High Cube,Shanghai,China,Oakland,USA,15,Delivered,823,Unknown,152370.22
+CONT596695,40FT High Cube,Shanghai,China,Oakland,USA,15,Delivered,245,Unknown,46621.05
+CONT507671,40FT High Cube,Shanghai,China,Oakland,USA,15,Delivered,358,Unknown,18734.14
+CONT718348,40FT Standard,Shanghai,China,Long Beach,USA,20,In Transit,697,Unknown,126867.94
+CONT801742,40FT Standard,Shanghai,China,Long Beach,USA,20,In Transit,509,Apparel & Accessories,98959.78
+CONT421909,40FT Standard,Shanghai,China,Long Beach,USA,20,In Transit,932,Electronics,149567.36
+CONT777878,40FT Standard,Shanghai,China,Long Beach,USA,20,In Transit,523,Apparel & Accessories,69647.91
+CONT607611,40FT Standard,Shanghai,China,Long Beach,USA,20,In Transit,786,Hardware,23304.90
+CONT882260,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,126,Health & Beauty,9470.16
+CONT603619,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,664,Home & Garden,54122.64
+CONT372093,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,90,Unknown,16307.10
+CONT436364,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,62,Apparel & Accessories,1419.18
+CONT483253,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,925,Apparel & Accessories,62641.00
+CONT537007,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,975,Electronics,138791.25
+CONT996993,20FT Reefer,Tianjin,China,Seattle,USA,16,Delivered,610,Hardware,74133.30
+CONT929059,40FT High Cube,Shenzhen,China,Seattle,USA,16,Arrived at Port,268,Unknown,47604.84
+CONT174820,40FT High Cube,Shenzhen,China,Seattle,USA,16,Arrived at Port,793,Unknown,44820.36
+CONT470796,40FT High Cube,Shenzhen,China,Seattle,USA,16,Arrived at Port,589,Apparel & Accessories,8999.92
+CONT607162,40FT High Cube,Shenzhen,China,Seattle,USA,16,Arrived at Port,136,Unknown,11177.84
+CONT857576,40FT High Cube,Shenzhen,China,Seattle,USA,16,Arrived at Port,167,Mature,32994.19
+CONT740092,20FT Reefer,Shanghai,China,Charleston,USA,23,In Transit,758,Electronics,90277.8
+CONT657213,20FT Reefer,Shanghai,China,Charleston,USA,23,In Transit,194,Animals & Pet Supplies,21151.82
+CONT466095,20FT Reefer,Shanghai,China,Charleston,USA,23,In Transit,658,Apparel & Accessories,6612.90
+CONT717871,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,163,Unknown,5773.46
+CONT510717,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,172,Hardware,26964.44
+CONT418029,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,554,Apparel & Accessories,95254.76
+CONT499537,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,946,Hardware,104078.92
+CONT892376,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,372,Unknown,52838.88
+CONT807733,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,410,Unknown,57695.20
+CONT835789,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,959,Unknown,86079.84
+CONT617615,20FT Reefer,Shenzhen,China,Long Beach,USA,17,Arrived at Port,684,Home & Garden,109316.88
+CONT776630,40FT Standard,Dalian,China,Oakland,USA,27,Arrived at Port,311,Hardware,18737.75
+CONT447426,40FT Standard,Dalian,China,Oakland,USA,27,Arrived at Port,445,Toys & Games,66999.20
+CONT288253,40FT Standard,Dalian,China,Oakland,USA,27,Arrived at Port,51,Unknown,1967.58
+CONT665280,40FT Standard,Dalian,China,Oakland,USA,27,Arrived at Port,925,Health & Beauty,106458.25
+CONT902282,40FT Standard,Dalian,China,Oakland,USA,27,Arrived at Port,103,Electronics,14628.06
+CONT339836,20FT Standard,Shanghai,China,Los Angeles,USA,25,Delivered,660,Unknown,84064.20
+CONT270493,20FT Standard,Shanghai,China,Los Angeles,USA,25,Delivered,351,Apparel & Accessories,43597.71
+CONT602544,20FT Standard,Shanghai,China,Los Angeles,USA,25,Delivered,536,Unknown,50426.88
+CONT266092,20FT Standard,Shanghai,China,Los Angeles,USA,25,Delivered,231,Unknown,29413.23
+CONT505212,20FT Standard,Shanghai,China,Los Angeles,USA,25,Delivered,607,Toys & Games,74903.8
+CONT677994,20FT Reefer,Shanghai,China,Oakland,USA,21,Arrived at Port,384,Unknown,9818.88
+CONT677971,20FT Reefer,Shanghai,China,Oakland,USA,21,Arrived at Port,814,Home & Garden,130158.6
+CONT541359,20FT Reefer,Shanghai,China,Oakland,USA,21,Arrived at Port,719,Unknown,8361.97
+CONT148686,40FT High Cube,Guangzhou,China,Charleston,USA,22,In Transit,264,Apparel & Accessories,27155.04
+CONT637179,40FT High Cube,Guangzhou,China,Charleston,USA,22,In Transit,602,Toys & Games,48298.46
+CONT393691,40FT High Cube,Guangzhou,China,Charleston,USA,22,In Transit,518,Apparel & Accessories,64641.22
+CONT736737,40FT High Cube,Guangzhou,China,Charleston,USA,22,In Transit,997,Apparel & Accessories,183757.07
+CONT918038,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,517,Cameras & Optics,21962.16
+CONT416334,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,984,Unknown,6671.52
+CONT886624,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,863,Office Supplies,14947.16
+CONT439538,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,635,Apparel & Accessories,64458.85
+CONT641405,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,214,Apparel & Accessories,6049.78
+CONT671417,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,749,Apparel & Accessories,145545.68
+CONT732677,45FT High Cube,Tianjin,China,Seattle,USA,25,Arrived at Port,843,Apparel & Accessories,106867.11
+CONT472671,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,286,Home & Garden,7727.72
+CONT193358,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,854,Business & Industrial,5798.66
+CONT508866,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,135,Animals & Pet Supplies,11615.40
+CONT186069,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,464,Home & Garden,73910.56
+CONT959400,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,870,Unknown,42160.20
+CONT173063,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,947,Apparel & Accessories,104188.94
+CONT481554,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,991,Unknown,43861.66
+CONT545354,40FT Standard,Ningbo,China,Savannah,USA,24,Customs Clearance,909,Unknown,31442.31
+CONT643328,20FT Reefer,Shanghai,China,Los Angeles,USA,15,Arrived at Port,652,Apparel & Accessories,92075.44
+CONT201481,20FT Reefer,Shanghai,China,Los Angeles,USA,15,Arrived at Port,846,Unknown,165655.26
+CONT802119,20FT Reefer,Shanghai,China,Los Angeles,USA,15,Arrived at Port,868,Hardware,37124.36
+CONT987906,20FT Standard,Shenzhen,China,Charleston,USA,16,In Transit,997,Unknown,68055.22
+CONT921977,20FT Standard,Shenzhen,China,Charleston,USA,16,In Transit,121,Apparel & Accessories,9689.68
+CONT327225,20FT Standard,Shenzhen,China,Charleston,USA,16,In Transit,941,Unknown,67582.62
+CONT468130,20FT Standard,Shenzhen,China,Charleston,USA,16,In Transit,204,Unknown,26899.44
+CONT403351,20FT Standard,Shenzhen,China,Charleston,USA,16,In Transit,798,Apparel & Accessories,91913.64
+CONT218382,45FT High Cube,Tianjin,China,New York,USA,24,In Transit,832,Sporting Goods,91170.56
+CONT681412,45FT High Cube,Tianjin,China,New York,USA,24,In Transit,716,Toys & Games,88941.52
+CONT786733,45FT High Cube,Tianjin,China,New York,USA,24,In Transit,741,Apparel & Accessories,15516.54
+CONT725108,45FT High Cube,Tianjin,China,New York,USA,24,In Transit,334,Apparel & Accessories,61549.52
+CONT280236,45FT High Cube,Tianjin,China,New York,USA,24,In Transit,360,Unknown,37940.40
+CONT123754,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,169,Apparel & Accessories,2540.07
+CONT954111,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,698,Apparel & Accessories,79139.24
+CONT578793,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,500,Electronics,10595.00
+CONT832147,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,802,Unknown,69565.48
+CONT375466,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,751,Electronics,69692.8
+CONT161172,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,670,Electronics,40059.30
+CONT142729,45FT High Cube,Ningbo,China,Charleston,USA,16,Arrived at Port,158,Unknown,17372.10
+CONT358339,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,670,Furniture,117196.40
+CONT983378,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,293,Electronics,6073.89
+CONT285677,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,616,Home & Garden,88599.28
+CONT338664,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,59,Hardware,793.55
+CONT892650,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,245,Sporting Goods,24938.55
+CONT964828,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,151,Apparel & Accessories,24614.51
+CONT625667,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,414,Cameras & Optics,33082.74
+CONT596035,40FT High Cube,Qingdao,China,Charleston,USA,15,Delivered,272,Home & Garden,23824.48
+CONT802977,40FT High Cube,Ningbo,China,Los Angeles,USA,17,In Transit,855,Unknown,103685.85
+CONT402309,40FT High Cube,Ningbo,China,Los Angeles,USA,17,In Transit,955,Apparel & Accessories,160793.35
+CONT103207,40FT High Cube,Ningbo,China,Los Angeles,USA,17,In Transit,469,Apparel & Accessories,40118.26
+CONT879211,40FT High Cube,Ningbo,China,Los Angeles,USA,17,In Transit,396,Unknown,29470.32
+CONT468153,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,638,Apparel & Accessories,17028.22
+CONT451819,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,336,Home & Garden,52288.32
+CONT663450,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,787,Sporting Goods,41325.37
+CONT404675,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,377,Apparel & Accessories,17353.31
+CONT926270,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,571,Apparel & Accessories,36852.34
+CONT803135,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,147,Unknown,14241.36
+CONT981327,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,928,Home & Garden,143440.96
+CONT514485,20FT Reefer,Shanghai,China,New York,USA,22,Ready for Pickup,57,Unknown,4623.27
+CONT146211,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,300,Unknown,25341.00
+CONT353367,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,806,Home & Garden,86701.42
+CONT510846,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,75,Unknown,8526.00
+CONT503357,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,720,Unknown,65167.20
+CONT125441,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,918,Electronics,29697.30
+CONT247248,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,264,Apparel & Accessories,34578.72
+CONT921675,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,617,Unknown,9736.26
+CONT763904,40FT High Cube,Ningbo,China,Oakland,USA,24,Customs Clearance,660,Unknown,29931.00
+CONT609155,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,956,Hardware,21108.48
+CONT277738,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,602,Electronics,73413.90
+CONT824836,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,706,Health & Beauty,120556.56
+CONT648483,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,569,Home & Garden,98277.68
+CONT479308,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,898,Unknown,174643.04
+CONT162352,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,974,Vehicles & Parts,50609.04
+CONT761005,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,451,Apparel & Accessories,11302.06
+CONT227716,45FT High Cube,Qingdao,China,Los Angeles,USA,20,Customs Clearance,875,Apparel & Accessories,36776.25
+CONT418824,20FT Standard,Xiamen,China,Seattle,USA,21,Delivered,578,Unknown,14779.46
+CONT707932,20FT Standard,Xiamen,China,Seattle,USA,21,Delivered,112,Unknown,8296.96
+CONT718376,20FT Standard,Xiamen,China,Seattle,USA,21,Delivered,864,Unknown,143035.20
+CONT946164,20FT Standard,Xiamen,China,Seattle,USA,21,Delivered,523,Unknown,81384.03
+CONT504026,20FT Standard,Xiamen,China,Seattle,USA,21,Delivered,232,Apparel & Accessories,35830.08
+CONT614116,20FT Standard,Xiamen,China,Seattle,USA,21,Delivered,261,Home & Garden,10528.74
+CONT270246,40FT Standard,Xiamen,China,New York,USA,21,In Transit,785,Unknown,151638.45
+CONT162955,40FT Standard,Xiamen,China,New York,USA,21,In Transit,869,Apparel & Accessories,83224.13
+CONT884881,40FT Standard,Xiamen,China,New York,USA,21,In Transit,930,Mature,183740.10
+CONT796051,40FT Standard,Xiamen,China,New York,USA,21,In Transit,917,Unknown,138191.9
+CONT989318,40FT Standard,Xiamen,China,New York,USA,21,In Transit,385,Electronics,25587.10
+CONT916531,40FT High Cube,Xiamen,China,Long Beach,USA,24,In Transit,811,Unknown,12254.21
+CONT837927,40FT High Cube,Xiamen,China,Long Beach,USA,24,In Transit,512,Arts & Entertainment,10624.00
+CONT659925,40FT High Cube,Xiamen,China,Long Beach,USA,24,In Transit,591,Hardware,113915.25
+CONT173802,40FT High Cube,Xiamen,China,Long Beach,USA,24,In Transit,206,Luggage & Bags,40559.34
+CONT663451,40FT High Cube,Xiamen,China,Long Beach,USA,24,In Transit,337,Unknown,12142.11
+CONT387657,40FT Standard,Shanghai,China,Oakland,USA,17,In Transit,525,Toys & Games,8163.75
+CONT804297,40FT Standard,Shanghai,China,Oakland,USA,17,In Transit,717,Apparel & Accessories,29009.82
+CONT835061,40FT Standard,Shanghai,China,Oakland,USA,17,In Transit,711,Apparel & Accessories,8880.39
+CONT626769,40FT Standard,Shanghai,China,Oakland,USA,17,In Transit,688,"Food, Beverages & Tobacco",108119.20
+CONT628111,40FT Standard,Shanghai,China,Oakland,USA,17,In Transit,241,Hardware,44421.12
+CONT636628,40FT Standard,Ningbo,China,New York,USA,19,Ready for Pickup,757,Home & Garden,98833.92
+CONT540366,40FT Standard,Ningbo,China,New York,USA,19,Ready for Pickup,577,Unknown,98228.48
+CONT889355,40FT Standard,Ningbo,China,New York,USA,19,Ready for Pickup,588,Electronics,18533.76
+CONT221436,40FT Standard,Ningbo,China,New York,USA,19,Ready for Pickup,252,Unknown,13048.56
+CONT221581,20FT Reefer,Tianjin,China,Long Beach,USA,22,In Transit,235,Health & Beauty,30279.75
+CONT909922,20FT Reefer,Tianjin,China,Long Beach,USA,22,In Transit,871,Hardware,133175.9
+CONT174461,20FT Reefer,Tianjin,China,Long Beach,USA,22,In Transit,505,Electronics,17624.5
+CONT190735,20FT Reefer,Tianjin,China,Long Beach,USA,22,In Transit,530,Unknown,29086.40
+CONT666827,20FT Reefer,Tianjin,China,Long Beach,USA,22,In Transit,309,Apparel & Accessories,37107.81
+CONT776400,20FT Reefer,Tianjin,China,Long Beach,USA,22,In Transit,832,Vehicles & Parts,11880.96
+CONT882724,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,467,Apparel & Accessories,77097.03
+CONT498751,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,532,Vehicles & Parts,5644.52
+CONT982010,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,296,Arts & Entertainment,3552
+CONT756715,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,655,Hardware,68892.90
+CONT257739,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,76,Home & Garden,5246.28
+CONT949981,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,840,Apparel & Accessories,111686.40
+CONT904404,40FT Standard,Xiamen,China,Oakland,USA,18,Ready for Pickup,335,Unknown,20083.25
+CONT413273,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,696,Apparel & Accessories,113162.64
+CONT151452,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,271,Apparel & Accessories,19644.79
+CONT648039,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,638,Apparel & Accessories,84598.8
+CONT913414,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,246,Apparel & Accessories,25709.46
+CONT611310,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,199,Electronics,15446.38
+CONT879492,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,847,Apparel & Accessories,96142.97
+CONT891102,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,529,Apparel & Accessories,99610.7
+CONT525678,20FT Standard,Dalian,China,Oakland,USA,18,In Transit,410,Arts & Entertainment,55001.50
+CONT749621,45FT High Cube,Tianjin,China,Savannah,USA,24,Delivered,131,Home & Garden,12272.08
+CONT517652,45FT High Cube,Tianjin,China,Savannah,USA,24,Delivered,653,Hardware,114405.6
+CONT225430,45FT High Cube,Tianjin,China,Savannah,USA,24,Delivered,177,Electronics,32486.58
+CONT985209,45FT High Cube,Tianjin,China,Savannah,USA,24,Delivered,98,Hardware,11059.30
+CONT725474,45FT High Cube,Ningbo,China,Seattle,USA,20,In Transit,876,Apparel & Accessories,117962.16
+CONT453762,45FT High Cube,Ningbo,China,Seattle,USA,20,In Transit,847,Home & Garden,50371.09
+CONT846220,45FT High Cube,Ningbo,China,Seattle,USA,20,In Transit,291,Apparel & Accessories,2717.94
+CONT521151,45FT High Cube,Ningbo,China,Seattle,USA,20,In Transit,680,Apparel & Accessories,52577.60
+CONT839662,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,942,Apparel & Accessories,124475.88
+CONT373402,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,128,Apparel & Accessories,15749.12
+CONT526912,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,688,Mature,78239.36
+CONT758628,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,724,Unknown,81240.04
+CONT710789,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,344,Health & Beauty,65693.68
+CONT252301,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,174,Home & Garden,14908.32
+CONT955232,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,70,Home & Garden,636.30
+CONT571461,20FT Reefer,Tianjin,China,Los Angeles,USA,26,Ready for Pickup,240,Apparel & Accessories,40612.80
+CONT683942,20FT Standard,Tianjin,China,Savannah,USA,15,Ready for Pickup,244,Home & Garden,47972.84
+CONT489677,20FT Standard,Tianjin,China,Savannah,USA,15,Ready for Pickup,921,Home & Garden,70115.73
+CONT555240,20FT Standard,Tianjin,China,Savannah,USA,15,Ready for Pickup,603,Unknown,105102.9
+CONT168178,20FT Standard,Tianjin,China,Savannah,USA,15,Ready for Pickup,131,Home & Garden,13681.64
+CONT939773,20FT Standard,Tianjin,China,Savannah,USA,15,Ready for Pickup,793,Apparel & Accessories,12529.4
+CONT847329,20FT Standard,Tianjin,China,Savannah,USA,15,Ready for Pickup,307,Unknown,36400.99
+CONT749835,20FT Reefer,Ningbo,China,Charleston,USA,25,In Transit,656,Apparel & Accessories,76319.04
+CONT184092,20FT Reefer,Ningbo,China,Charleston,USA,25,In Transit,412,Hardware,25890.08
+CONT534440,20FT Reefer,Ningbo,China,Charleston,USA,25,In Transit,459,Hardware,55511.46
+CONT630223,20FT Reefer,Ningbo,China,Charleston,USA,25,In Transit,114,Apparel & Accessories,7154.64
+CONT682983,40FT High Cube,Shanghai,China,Oakland,USA,22,In Transit,422,Toys & Games,52074.8
+CONT459444,40FT High Cube,Shanghai,China,Oakland,USA,22,In Transit,498,Apparel & Accessories,88514.52
+CONT668160,40FT High Cube,Shanghai,China,Oakland,USA,22,In Transit,806,Home & Garden,142347.66
+CONT438338,40FT High Cube,Shanghai,China,Oakland,USA,22,In Transit,470,Unknown,48316.0
+CONT280077,40FT High Cube,Shanghai,China,Oakland,USA,22,In Transit,540,Arts & Entertainment,42368.40
+CONT419876,40FT High Cube,Shanghai,China,Oakland,USA,22,In Transit,603,Apparel & Accessories,37126.71
+CONT470073,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,711,Apparel & Accessories,8261.82
+CONT706565,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,258,Vehicles & Parts,17515.62
+CONT179581,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,927,Apparel & Accessories,117701.19
+CONT675609,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,982,Unknown,146180.52
+CONT778014,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,667,Business & Industrial,124668.97
+CONT282142,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,648,Apparel & Accessories,20204.64
+CONT460091,45FT High Cube,Tianjin,China,Seattle,USA,29,Ready for Pickup,301,Home & Garden,54977.65
+CONT892672,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,866,Apparel & Accessories,167337.18
+CONT705619,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,994,Hardware,55902.56
+CONT248406,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,956,Unknown,75638.72
+CONT393531,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,456,Electronics,56142.72
+CONT842406,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,807,Electronics,91909.23
+CONT312870,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,538,Home & Garden,88221.24
+CONT360435,40FT Standard,Guangzhou,China,New York,USA,29,Arrived at Port,309,Unknown,23558.16
+CONT953877,45FT High Cube,Shenzhen,China,Los Angeles,USA,23,Ready for Pickup,931,Vehicles & Parts,152050.92
+CONT915306,45FT High Cube,Shenzhen,China,Los Angeles,USA,23,Ready for Pickup,580,Baby & Toddler,73358.40
+CONT415774,45FT High Cube,Shenzhen,China,Los Angeles,USA,23,Ready for Pickup,274,Vehicles & Parts,39647.8
+CONT834035,45FT High Cube,Shenzhen,China,Los Angeles,USA,23,Ready for Pickup,848,Apparel & Accessories,34165.92
+CONT747891,45FT High Cube,Shenzhen,China,Los Angeles,USA,23,Ready for Pickup,303,Unknown,7120.5
+CONT788459,40FT Standard,Qingdao,China,New York,USA,23,In Transit,780,Electronics,28524.60
+CONT812549,40FT Standard,Qingdao,China,New York,USA,23,In Transit,796,Health & Beauty,104172.52
+CONT208597,40FT Standard,Qingdao,China,New York,USA,23,In Transit,377,Home & Garden,29850.86
+CONT737897,40FT Standard,Qingdao,China,New York,USA,23,In Transit,431,Home & Garden,29614.01
+CONT252247,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,963,Apparel & Accessories,40359.33
+CONT241763,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,291,Apparel & Accessories,34090.65
+CONT857705,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,195,Unknown,33440.55
+CONT331681,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,146,Apparel & Accessories,20803.54
+CONT546453,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,951,Home & Garden,6438.27
+CONT626712,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,340,Home & Garden,44390.40
+CONT118557,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,386,Electronics,42676.16
+CONT596905,20FT Reefer,Xiamen,China,Los Angeles,USA,23,Arrived at Port,245,Unknown,5184.20
+CONT997388,40FT High Cube,Ningbo,China,New York,USA,25,Ready for Pickup,363,Electronics,4094.64
+CONT205786,40FT High Cube,Ningbo,China,New York,USA,25,Ready for Pickup,666,Hardware,120912.30
+CONT338065,40FT High Cube,Ningbo,China,New York,USA,25,Ready for Pickup,782,Apparel & Accessories,69871.70
+CONT249224,40FT High Cube,Ningbo,China,New York,USA,25,Ready for Pickup,395,Health & Beauty,51369.75
+CONT809499,20FT Standard,Xiamen,China,Long Beach,USA,20,Customs Clearance,182,Electronics,8484.84
+CONT492425,20FT Standard,Xiamen,China,Long Beach,USA,20,Customs Clearance,536,Unknown,74509.36
+CONT638154,20FT Standard,Xiamen,China,Long Beach,USA,20,Customs Clearance,570,Apparel & Accessories,35824.50
+CONT996735,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,56,Electronics,2950.64
+CONT183854,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,70,Arts & Entertainment,8779.40
+CONT818231,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,743,Sporting Goods,88610.18
+CONT674482,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,842,Apparel & Accessories,164636.26
+CONT340068,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,363,Unknown,13245.87
+CONT689225,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,55,Unknown,4995.65
+CONT270503,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,810,Electronics,151972.20
+CONT355043,20FT Standard,Qingdao,China,Charleston,USA,18,In Transit,949,"Food, Beverages & Tobacco",27103.44
+CONT258209,40FT High Cube,Shanghai,China,Oakland,USA,18,In Transit,932,Home & Garden,105213.48
+CONT540389,40FT High Cube,Shanghai,China,Oakland,USA,18,In Transit,676,Apparel & Accessories,12113.92
+CONT208619,40FT High Cube,Shanghai,China,Oakland,USA,18,In Transit,585,Electronics,57037.5
+CONT286342,40FT High Cube,Shanghai,China,Oakland,USA,18,In Transit,572,Electronics,83002.92
+CONT630567,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,722,Electronics,13227.04
+CONT469321,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,901,Apparel & Accessories,140565.01
+CONT916857,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,542,Unknown,56422.2
+CONT792189,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,181,Apparel & Accessories,30089.44
+CONT451733,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,496,Home & Garden,30826.40
+CONT780379,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,594,Unknown,3272.94
+CONT617049,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,127,Electronics,21172.17
+CONT178297,20FT Reefer,Qingdao,China,Oakland,USA,26,In Transit,845,Unknown,93845.70
+CONT859262,20FT Reefer,Guangzhou,China,Los Angeles,USA,16,In Transit,723,Unknown,92421.09
+CONT973086,20FT Reefer,Guangzhou,China,Los Angeles,USA,16,In Transit,101,Apparel & Accessories,17025.57
+CONT212469,20FT Reefer,Guangzhou,China,Los Angeles,USA,16,In Transit,652,Sporting Goods,95876.60
+CONT306451,20FT Reefer,Guangzhou,China,Los Angeles,USA,16,In Transit,493,Home & Garden,97850.64
+CONT465847,20FT Reefer,Guangzhou,China,Los Angeles,USA,16,In Transit,756,Home & Garden,42305.76
+CONT516414,20FT Reefer,Guangzhou,China,Los Angeles,USA,16,In Transit,438,Apparel & Accessories,48858.90
+CONT285387,45FT High Cube,Guangzhou,China,Seattle,USA,26,Delivered,462,Apparel & Accessories,10478.16
+CONT735894,45FT High Cube,Guangzhou,China,Seattle,USA,26,Delivered,613,Sporting Goods,100556.52
+CONT176283,45FT High Cube,Guangzhou,China,Seattle,USA,26,Delivered,217,Unknown,35835.38
+CONT609408,45FT High Cube,Guangzhou,China,Seattle,USA,26,Delivered,905,Sporting Goods,167705.55
+CONT771643,45FT High Cube,Guangzhou,China,Seattle,USA,26,Delivered,467,Apparel & Accessories,16387.03
+CONT182045,45FT High Cube,Guangzhou,China,Seattle,USA,26,Delivered,245,Electronics,22718.85
+CONT964958,20FT Reefer,Tianjin,China,Los Angeles,USA,27,Arrived at Port,886,Hardware,86252.10
+CONT873375,20FT Reefer,Tianjin,China,Los Angeles,USA,27,Arrived at Port,196,Unknown,13733.72
+CONT694951,20FT Reefer,Tianjin,China,Los Angeles,USA,27,Arrived at Port,236,Unknown,23828.92
+CONT200704,20FT Reefer,Tianjin,China,Los Angeles,USA,27,Arrived at Port,221,Apparel & Accessories,26363.09
+CONT171960,20FT Reefer,Tianjin,China,Los Angeles,USA,27,Arrived at Port,485,Unknown,19215.70
+CONT134353,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,498,Unknown,4820.64
+CONT803548,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,173,Electronics,10990.69
+CONT148604,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,65,Sporting Goods,7935.85
+CONT698710,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,866,Unknown,109514.36
+CONT571669,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,154,Apparel & Accessories,10083.92
+CONT118992,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,492,Unknown,58808.76
+CONT547893,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,740,Apparel & Accessories,78595.40
+CONT248203,40FT High Cube,Guangzhou,China,Long Beach,USA,27,Delivered,481,Hardware,50591.58
+CONT823311,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,374,Apparel & Accessories,7285.52
+CONT227400,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,133,Unknown,8970.85
+CONT360425,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,242,Animals & Pet Supplies,31208.32
+CONT916479,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,775,Hardware,14089.50
+CONT113161,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,108,Sporting Goods,706.32
+CONT144936,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,355,Unknown,22886.85
+CONT920296,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,194,Unknown,8415.72
+CONT496474,45FT High Cube,Tianjin,China,Seattle,USA,25,Customs Clearance,651,Unknown,79669.38
+CONT520857,20FT Standard,Shenzhen,China,Long Beach,USA,19,In Transit,288,Apparel & Accessories,53441.28
+CONT299612,20FT Standard,Shenzhen,China,Long Beach,USA,19,In Transit,400,Arts & Entertainment,46120.0
+CONT588165,20FT Standard,Shenzhen,China,Long Beach,USA,19,In Transit,268,Apparel & Accessories,4092.36
+CONT372948,20FT Standard,Shenzhen,China,Long Beach,USA,19,In Transit,133,Apparel & Accessories,26127.85
+CONT632309,20FT Standard,Shenzhen,China,Long Beach,USA,19,In Transit,711,Apparel & Accessories,17952.75
+CONT522653,20FT Standard,Shenzhen,China,Long Beach,USA,19,In Transit,126,Electronics,4336.92
+CONT242813,40FT Standard,Tianjin,China,New York,USA,20,In Transit,502,Home & Garden,96333.8
+CONT693163,40FT Standard,Tianjin,China,New York,USA,20,In Transit,177,Unknown,31525.47
+CONT636322,40FT Standard,Tianjin,China,New York,USA,20,In Transit,665,Unknown,111620.25
+CONT362089,40FT Standard,Xiamen,China,New York,USA,29,Delivered,669,Unknown,21655.53
+CONT631268,40FT Standard,Xiamen,China,New York,USA,29,Delivered,792,Hardware,22080.96
+CONT104828,40FT Standard,Xiamen,China,New York,USA,29,Delivered,271,Unknown,25612.21
+CONT925415,40FT Standard,Xiamen,China,New York,USA,29,Delivered,740,Electronics,58038.20
+CONT637579,40FT Standard,Xiamen,China,New York,USA,29,Delivered,845,Apparel & Accessories,60341.45
+CONT440713,40FT Standard,Xiamen,China,New York,USA,29,Delivered,931,Home & Garden,6777.68
+CONT473153,40FT Standard,Xiamen,China,New York,USA,29,Delivered,398,Apparel & Accessories,28839.08
+CONT237444,40FT Standard,Xiamen,China,New York,USA,29,Delivered,957,Apparel & Accessories,69124.11
+CONT440725,20FT Reefer,Ningbo,China,Seattle,USA,22,In Transit,459,Unknown,89784.99
+CONT477237,20FT Reefer,Ningbo,China,Seattle,USA,22,In Transit,117,Health & Beauty,13832.91
+CONT137631,20FT Reefer,Ningbo,China,Seattle,USA,22,In Transit,927,Electronics,29979.18
+CONT525007,20FT Reefer,Ningbo,China,Seattle,USA,22,In Transit,444,Cameras & Optics,38925.48
+CONT945296,20FT Reefer,Ningbo,China,Seattle,USA,22,In Transit,710,Vehicles & Parts,118619.70
+CONT807831,20FT Reefer,Ningbo,China,Seattle,USA,22,In Transit,307,Unknown,28827.3
+CONT205900,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,738,Home & Garden,68626.62
+CONT623568,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,422,Unknown,81589.48
+CONT384582,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,779,Electronics,69175.2
+CONT180400,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,234,Apparel & Accessories,5136.30
+CONT875881,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,518,Apparel & Accessories,83480.88
+CONT234410,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,163,Arts & Entertainment,30433.73
+CONT474096,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,564,Apparel & Accessories,101717.40
+CONT652165,40FT High Cube,Qingdao,China,Seattle,USA,25,Customs Clearance,527,Apparel & Accessories,100282.83
+CONT646080,20FT Standard,Ningbo,China,Long Beach,USA,20,Arrived at Port,914,Apparel & Accessories,22493.54
+CONT572259,20FT Standard,Ningbo,China,Long Beach,USA,20,Arrived at Port,323,Electronics,60943.64
+CONT362227,20FT Standard,Ningbo,China,Long Beach,USA,20,Arrived at Port,65,Sporting Goods,9457.5
+CONT102389,20FT Standard,Ningbo,China,Long Beach,USA,20,Arrived at Port,57,Apparel & Accessories,5650.98
+CONT615361,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,708,Electronics,22903.80
+CONT478328,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,347,Electronics,63219.93
+CONT197910,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,342,Home & Garden,35140.50
+CONT730401,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,457,Unknown,34832.54
+CONT108462,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,981,Unknown,54622.08
+CONT872328,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,126,Apparel & Accessories,24431.4
+CONT822219,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,246,Unknown,43187.76
+CONT690840,20FT Standard,Shenzhen,China,Long Beach,USA,29,Arrived at Port,324,Apparel & Accessories,21277.08
+CONT455502,20FT Standard,Qingdao,China,New York,USA,22,In Transit,231,Hardware,33511.17
+CONT703483,20FT Standard,Qingdao,China,New York,USA,22,In Transit,429,Apparel & Accessories,85697.04
+CONT277724,20FT Standard,Qingdao,China,New York,USA,22,In Transit,872,Unknown,9905.92
+CONT788482,20FT Standard,Qingdao,China,New York,USA,22,In Transit,178,Apparel & Accessories,19060.24
+CONT462483,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,567,Health & Beauty,107695.98
+CONT173134,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,225,Apparel & Accessories,32616.00
+CONT868363,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,476,Unknown,46681.32
+CONT450543,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,226,Unknown,14601.86
+CONT756492,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,872,Cameras & Optics,26752.96
+CONT907461,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,601,Sporting Goods,30416.61
+CONT567485,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,261,Arts & Entertainment,21488.13
+CONT603242,40FT High Cube,Dalian,China,Savannah,USA,20,In Transit,727,Unknown,73928.63
+CONT548880,45FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,327,Unknown,53268.3
+CONT626487,45FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,695,Apparel & Accessories,125065.25
+CONT600209,45FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,905,Apparel & Accessories,128953.45
+CONT722207,45FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,886,Hardware,110120.94
+CONT526870,45FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,102,Apparel & Accessories,7393.98
+CONT902811,45FT High Cube,Shenzhen,China,Charleston,USA,20,In Transit,826,Unknown,45859.52
+CONT583775,40FT Standard,Qingdao,China,Los Angeles,USA,23,In Transit,229,Health & Beauty,17120.04
+CONT339488,40FT Standard,Qingdao,China,Los Angeles,USA,23,In Transit,940,Cameras & Optics,65113.80
+CONT333068,40FT Standard,Qingdao,China,Los Angeles,USA,23,In Transit,606,Hardware,10477.74
+CONT813823,20FT Standard,Dalian,China,Los Angeles,USA,16,In Transit,849,Apparel & Accessories,156479.19
+CONT757268,20FT Standard,Dalian,China,Los Angeles,USA,16,In Transit,855,Electronics,66219.75
+CONT523954,20FT Standard,Dalian,China,Los Angeles,USA,16,In Transit,307,Apparel & Accessories,37318.92
+CONT988630,20FT Standard,Dalian,China,Los Angeles,USA,16,In Transit,878,Unknown,19553.06
+CONT722465,20FT Standard,Dalian,China,Los Angeles,USA,16,In Transit,515,Unknown,2981.85
+CONT445185,20FT Reefer,Shenzhen,China,New York,USA,24,In Transit,500,Unknown,78645.00
+CONT940177,20FT Reefer,Shenzhen,China,New York,USA,24,In Transit,432,Cameras & Optics,42279.84
+CONT681789,20FT Reefer,Shenzhen,China,New York,USA,24,In Transit,572,Apparel & Accessories,49203.44
+CONT650875,20FT Reefer,Shenzhen,China,New York,USA,24,In Transit,972,Home & Garden,77176.8
+CONT698781,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,978,Unknown,29398.68
+CONT448821,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,89,Unknown,9777.54
+CONT990751,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,936,Electronics,14676.48
+CONT116967,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,882,Hardware,15249.78
+CONT830336,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,596,Unknown,84298.24
+CONT241546,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,349,Unknown,57298.82
+CONT536819,20FT Standard,Dalian,China,Oakland,USA,24,Customs Clearance,214,Unknown,33749.94
+CONT455405,40FT High Cube,Ningbo,China,Savannah,USA,20,In Transit,603,Home & Garden,52153.47
+CONT354971,40FT High Cube,Ningbo,China,Savannah,USA,20,In Transit,473,Home & Garden,83158.13
+CONT745429,40FT High Cube,Ningbo,China,Savannah,USA,20,In Transit,622,Apparel & Accessories,96279.38
+CONT366115,40FT High Cube,Ningbo,China,Savannah,USA,20,In Transit,321,Toys & Games,43402.41
+CONT881029,40FT High Cube,Ningbo,China,Savannah,USA,20,In Transit,479,Apparel & Accessories,14480.17
+CONT307262,40FT High Cube,Qingdao,China,Long Beach,USA,29,Delivered,460,Unknown,89345.80
+CONT737992,40FT High Cube,Qingdao,China,Long Beach,USA,29,Delivered,597,Apparel & Accessories,22775.55
+CONT233103,40FT High Cube,Qingdao,China,Long Beach,USA,29,Delivered,665,Apparel & Accessories,36428.70
+CONT776703,40FT High Cube,Qingdao,China,Long Beach,USA,29,Delivered,606,Apparel & Accessories,33717.84
+CONT153816,40FT High Cube,Qingdao,China,Long Beach,USA,29,Delivered,376,"Food, Beverages & Tobacco",10738.56
+CONT220913,45FT High Cube,Guangzhou,China,Charleston,USA,25,Ready for Pickup,376,Unknown,63002.56
+CONT916671,45FT High Cube,Guangzhou,China,Charleston,USA,25,Ready for Pickup,268,Apparel & Accessories,7721.08
+CONT740830,45FT High Cube,Guangzhou,China,Charleston,USA,25,Ready for Pickup,691,Apparel & Accessories,91799.35
+CONT362192,45FT High Cube,Guangzhou,China,Charleston,USA,25,Ready for Pickup,183,Hardware,14608.89
+CONT600788,40FT Standard,Qingdao,China,Seattle,USA,27,In Transit,651,Vehicles & Parts,112616.49
+CONT744930,40FT Standard,Qingdao,China,Seattle,USA,27,In Transit,603,Unknown,58846.77
+CONT422694,40FT Standard,Qingdao,China,Seattle,USA,27,In Transit,436,Apparel & Accessories,2642.16
+CONT381392,40FT Standard,Qingdao,China,Seattle,USA,27,In Transit,964,Toys & Games,26432.88
+CONT654791,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,349,Home & Garden,15589.83
+CONT782642,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,958,Apparel & Accessories,164383.22
+CONT221906,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,652,Apparel & Accessories,9010.64
+CONT440201,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,508,Vehicles & Parts,69524.88
+CONT607329,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,143,Apparel & Accessories,17082.78
+CONT526122,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,640,Unknown,38272.0
+CONT784970,40FT High Cube,Ningbo,China,Charleston,USA,15,Customs Clearance,72,Home & Garden,6744.96
+CONT951683,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,883,Hardware,116282.27
+CONT442680,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,68,Unknown,6375.00
+CONT530432,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,860,Electronics,124700
+CONT882813,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,278,Apparel & Accessories,43815.58
+CONT832962,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,286,Electronics,17282.98
+CONT233636,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,82,Unknown,1578.50
+CONT347102,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,949,Home & Garden,146402.23
+CONT951215,20FT Reefer,Shanghai,China,New York,USA,24,Arrived at Port,242,Unknown,36696.88
+CONT352108,40FT High Cube,Qingdao,China,Savannah,USA,23,In Transit,913,Apparel & Accessories,101452.56
+CONT344671,40FT High Cube,Qingdao,China,Savannah,USA,23,In Transit,78,Home & Garden,11405.94
+CONT736082,40FT High Cube,Qingdao,China,Savannah,USA,23,In Transit,486,Unknown,46558.8
+CONT710586,40FT High Cube,Qingdao,China,Savannah,USA,23,In Transit,489,Apparel & Accessories,86259.6
+CONT147802,40FT High Cube,Qingdao,China,Savannah,USA,23,In Transit,516,Apparel & Accessories,76259.64
+CONT537269,40FT High Cube,Qingdao,China,Savannah,USA,23,In Transit,133,Home & Garden,11523.12
+CONT258544,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,379,Home & Garden,33787.85
+CONT714929,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,720,Unknown,88646.40
+CONT512922,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,610,Vehicles & Parts,102461.70
+CONT362388,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,159,Unknown,10624.38
+CONT325060,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,350,Business & Industrial,32669.00
+CONT389643,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,364,"Food, Beverages & Tobacco",61818.12
+CONT517254,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,412,Apparel & Accessories,55479.92
+CONT800978,40FT High Cube,Dalian,China,Savannah,USA,17,In Transit,245,Electronics,45170.65
+CONT134797,40FT High Cube,Xiamen,China,New York,USA,19,Ready for Pickup,734,Luggage & Bags,124831.38
+CONT583454,40FT High Cube,Xiamen,China,New York,USA,19,Ready for Pickup,975,Apparel & Accessories,156565.50
+CONT687151,40FT High Cube,Xiamen,China,New York,USA,19,Ready for Pickup,753,Unknown,148084.98
+CONT999849,40FT High Cube,Xiamen,China,New York,USA,19,Ready for Pickup,212,Apparel & Accessories,8689.88
+CONT235365,40FT Standard,Ningbo,China,Seattle,USA,24,Ready for Pickup,312,Apparel & Accessories,40379.04
+CONT720171,40FT Standard,Ningbo,China,Seattle,USA,24,Ready for Pickup,807,Hardware,111018.99
+CONT529533,40FT Standard,Ningbo,China,Seattle,USA,24,Ready for Pickup,906,Hardware,150894.30
+CONT726750,40FT Standard,Ningbo,China,Seattle,USA,24,Ready for Pickup,893,Apparel & Accessories,10492.75
+CONT643522,45FT High Cube,Qingdao,China,Oakland,USA,19,In Transit,743,Unknown,40040.27
+CONT945952,45FT High Cube,Qingdao,China,Oakland,USA,19,In Transit,354,Hardware,18783.24
+CONT704182,45FT High Cube,Qingdao,China,Oakland,USA,19,In Transit,336,Apparel & Accessories,24265.92
+CONT232322,45FT High Cube,Qingdao,China,Oakland,USA,19,In Transit,107,Apparel & Accessories,1674.55
+CONT963294,45FT High Cube,Qingdao,China,Oakland,USA,19,In Transit,756,Apparel & Accessories,148100.4
+CONT377677,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,587,Unknown,106370.27
+CONT375228,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,451,Apparel & Accessories,54065.88
+CONT808596,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,548,Electronics,100870.36
+CONT214398,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,669,Unknown,103306.98
+CONT184580,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,100,Unknown,4185.00
+CONT614936,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,953,Unknown,108308.45
+CONT789445,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,451,Apparel & Accessories,85414.89
+CONT627653,40FT Standard,Ningbo,China,Los Angeles,USA,28,Delivered,864,,69422.40
+CONT843868,45FT High Cube,Qingdao,China,Charleston,USA,21,In Transit,806,Unknown,113452.56
+CONT157776,45FT High Cube,Qingdao,China,Charleston,USA,21,In Transit,124,Unknown,9614.96
+CONT648228,45FT High Cube,Qingdao,China,Charleston,USA,21,In Transit,923,Home & Garden,99287.11
+CONT181270,45FT High Cube,Qingdao,China,Charleston,USA,21,In Transit,475,Apparel & Accessories,69687.25
+CONT332970,40FT High Cube,Guangzhou,China,Los Angeles,USA,16,In Transit,58,Apparel & Accessories,10059.52
+CONT355101,40FT High Cube,Guangzhou,China,Los Angeles,USA,16,In Transit,691,Apparel & Accessories,124297.08
+CONT974107,40FT High Cube,Guangzhou,China,Los Angeles,USA,16,In Transit,690,Unknown,75803.40
+CONT805193,40FT High Cube,Guangzhou,China,Los Angeles,USA,16,In Transit,611,Home & Garden,9366.63
+CONT676473,40FT High Cube,Guangzhou,China,Los Angeles,USA,16,In Transit,312,Unknown,25711.92
+CONT134364,20FT Reefer,Dalian,China,Savannah,USA,15,In Transit,895,Health & Beauty,36032.70
+CONT853072,20FT Reefer,Dalian,China,Savannah,USA,15,In Transit,723,Unknown,72307.23
+CONT572950,20FT Reefer,Dalian,China,Savannah,USA,15,In Transit,722,Unknown,102372.38
+CONT426506,20FT Standard,Ningbo,China,Savannah,USA,23,Customs Clearance,434,Hardware,32176.76
+CONT765805,20FT Standard,Ningbo,China,Savannah,USA,23,Customs Clearance,536,Electronics,26580.24
+CONT534395,20FT Standard,Ningbo,China,Savannah,USA,23,Customs Clearance,357,Unknown,62521.41
+CONT574981,20FT Standard,Ningbo,China,Savannah,USA,23,Customs Clearance,609,Apparel & Accessories,71965.53
+CONT827532,20FT Standard,Ningbo,China,Savannah,USA,23,Customs Clearance,449,Apparel & Accessories,51118.65
+CONT370815,20FT Reefer,Shanghai,China,Charleston,USA,19,In Transit,391,Health & Beauty,60143.62
+CONT512714,20FT Reefer,Shanghai,China,Charleston,USA,19,In Transit,989,Unknown,82759.52
+CONT899324,20FT Reefer,Shanghai,China,Charleston,USA,19,In Transit,880,Hardware,96641.60
+CONT885111,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,925,Arts & Entertainment,169284.25
+CONT523012,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,918,Unknown,108544.32
+CONT873801,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,983,Apparel & Accessories,157171.87
+CONT627070,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,960,Furniture,167923.20
+CONT414287,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,100,Electronics,5269.00
+CONT555192,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,911,Apparel & Accessories,90025.02
+CONT829102,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,378,Sporting Goods,11033.82
+CONT781632,40FT Standard,Ningbo,China,Los Angeles,USA,18,In Transit,562,Home & Garden,17292.74
+CONT815326,20FT Reefer,Shanghai,China,Long Beach,USA,29,Ready for Pickup,129,Hardware,14075.19
+CONT346273,20FT Reefer,Shanghai,China,Long Beach,USA,29,Ready for Pickup,319,Vehicles & Parts,53582.43
+CONT132068,20FT Reefer,Shanghai,China,Long Beach,USA,29,Ready for Pickup,365,Hardware,50337.15
+CONT527281,20FT Reefer,Shanghai,China,Long Beach,USA,29,Ready for Pickup,609,Apparel & Accessories,56643.09
+CONT722774,20FT Reefer,Shanghai,China,Long Beach,USA,29,Ready for Pickup,207,Home & Garden,7352.64
+CONT878635,20FT Reefer,Shanghai,China,Long Beach,USA,29,Ready for Pickup,676,Apparel & Accessories,126418.76
+CONT182886,20FT Reefer,Shanghai,China,Charleston,USA,22,In Transit,771,Unknown,71988.27
+CONT429163,20FT Reefer,Shanghai,China,Charleston,USA,22,In Transit,712,Apparel & Accessories,90174.80
+CONT903824,20FT Reefer,Shanghai,China,Charleston,USA,22,In Transit,888,Mature,50687.04
+CONT259441,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,851,Electronics,57536.11
+CONT912126,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,272,Home & Garden,27417.6
+CONT255167,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,481,Unknown,41611.31
+CONT496779,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,418,Apparel & Accessories,9935.86
+CONT608459,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,787,Electronics,149404.08
+CONT101390,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,593,Unknown,67275.85
+CONT614949,40FT Standard,Guangzhou,China,Savannah,USA,22,Arrived at Port,641,Unknown,60298.87
+CONT146376,40FT Standard,Ningbo,China,Seattle,USA,16,In Transit,692,Apparel & Accessories,21514.28
+CONT517709,40FT Standard,Ningbo,China,Seattle,USA,16,In Transit,109,Electronics,12079.38
+CONT888199,40FT Standard,Ningbo,China,Seattle,USA,16,In Transit,322,Unknown,42784.14
+CONT974932,40FT Standard,Ningbo,China,Seattle,USA,16,In Transit,778,Unknown,9865.04
+CONT950839,40FT Standard,Ningbo,China,Seattle,USA,16,In Transit,484,Apparel & Accessories,69226.52
+CONT415036,40FT Standard,Ningbo,China,Seattle,USA,16,In Transit,893,Vehicles & Parts,116143.58
+CONT521115,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,268,Apparel & Accessories,34518.4
+CONT584886,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,754,Unknown,146147.82
+CONT498819,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,644,Apparel & Accessories,106665.72
+CONT619570,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,601,Sporting Goods,75293.28
+CONT235413,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,551,Electronics,108315.58
+CONT110935,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,167,Apparel & Accessories,17693.65
+CONT416001,40FT Standard,Shenzhen,China,Oakland,USA,18,Arrived at Port,302,Hardware,31927.44
+CONT644839,40FT High Cube,Shanghai,China,Savannah,USA,27,Ready for Pickup,892,Home & Garden,83268.20
+CONT566842,40FT High Cube,Shanghai,China,Savannah,USA,27,Ready for Pickup,900,Apparel & Accessories,88830.0
+CONT717774,40FT High Cube,Shanghai,China,Savannah,USA,27,Ready for Pickup,457,Apparel & Accessories,63527.57
+CONT193683,40FT High Cube,Shanghai,China,Savannah,USA,27,Ready for Pickup,425,Cameras & Optics,26566.75
+CONT257745,40FT High Cube,Shanghai,China,Savannah,USA,27,Ready for Pickup,668,Unknown,124936.04
+CONT398941,40FT High Cube,Shanghai,China,Savannah,USA,27,Ready for Pickup,650,Unknown,128843.00
+CONT444238,40FT Standard,Dalian,China,Oakland,USA,24,Ready for Pickup,675,Home & Garden,61560.0
+CONT477511,40FT Standard,Dalian,China,Oakland,USA,24,Ready for Pickup,79,Electronics,9498.96
+CONT149798,40FT Standard,Dalian,China,Oakland,USA,24,Ready for Pickup,224,Unknown,37103.36
+CONT737563,40FT Standard,Dalian,China,Oakland,USA,24,Ready for Pickup,379,Apparel & Accessories,68204.84
+CONT188494,40FT Standard,Dalian,China,Oakland,USA,24,Ready for Pickup,456,Hardware,52394.4
+CONT510826,45FT High Cube,Qingdao,China,Los Angeles,USA,17,In Transit,195,Home & Garden,16894.80
+CONT248612,45FT High Cube,Qingdao,China,Los Angeles,USA,17,In Transit,178,Apparel & Accessories,6253.14
+CONT420095,45FT High Cube,Qingdao,China,Los Angeles,USA,17,In Transit,450,Apparel & Accessories,62167.50
+CONT790328,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,898,Unknown,104931.30
+CONT612055,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,173,Electronics,8056.61
+CONT764147,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,153,Business & Industrial,25593.84
+CONT161053,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,68,Luggage & Bags,3006.96
+CONT427018,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,97,Unknown,11501.29
+CONT661205,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,531,Apparel & Accessories,80016.39
+CONT217722,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,908,Hardware,110440.04
+CONT309359,40FT High Cube,Ningbo,China,Savannah,USA,19,Arrived at Port,648,Unknown,78621.84
+CONT380158,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,615,Apparel & Accessories,36893.85
+CONT816529,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,730,Unknown,38106.0
+CONT345227,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,587,Electronics,63284.47
+CONT782456,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,965,Vehicles & Parts,53181.15
+CONT985426,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,218,Apparel & Accessories,4785.10
+CONT938638,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,625,Apparel & Accessories,45100.00
+CONT637111,40FT High Cube,Shenzhen,China,Seattle,USA,23,In Transit,639,Home & Garden,28927.53
+CONT392437,20FT Standard,Shenzhen,China,Oakland,USA,20,In Transit,675,Arts & Entertainment,108749.25
+CONT203973,20FT Standard,Shenzhen,China,Oakland,USA,20,In Transit,573,Unknown,104515.2
+CONT591503,20FT Standard,Shenzhen,China,Oakland,USA,20,In Transit,289,Apparel & Accessories,3944.85
+CONT427983,40FT Standard,Qingdao,China,Savannah,USA,27,Customs Clearance,867,Home & Garden,167192.28
+CONT460878,40FT Standard,Qingdao,China,Savannah,USA,27,Customs Clearance,980,Apparel & Accessories,6095.60
+CONT363902,40FT Standard,Qingdao,China,Savannah,USA,27,Customs Clearance,859,Furniture,85418.96
+CONT599935,40FT Standard,Qingdao,China,Savannah,USA,27,Customs Clearance,130,Arts & Entertainment,21863.40
+CONT217207,40FT Standard,Qingdao,China,Savannah,USA,27,Customs Clearance,403,Unknown,35254.44
+CONT776399,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,645,Hardware,121898.55
+CONT491775,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,445,Unknown,11307.45
+CONT390790,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,950,Unknown,61617.00
+CONT826242,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,817,Apparel & Accessories,12018.07
+CONT657719,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,750,Toys & Games,29700.0
+CONT517953,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,58,Apparel & Accessories,11036.82
+CONT331976,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,140,Hardware,20034.0
+CONT828598,45FT High Cube,Guangzhou,China,Oakland,USA,25,Delivered,377,Unknown,53168.31
+CONT114029,40FT Standard,Ningbo,China,Los Angeles,USA,21,In Transit,710,Apparel & Accessories,51659.60
+CONT889662,40FT Standard,Ningbo,China,Los Angeles,USA,21,In Transit,553,Vehicles & Parts,97532.61
+CONT725109,40FT Standard,Ningbo,China,Los Angeles,USA,21,In Transit,533,Hardware,96766.15
+CONT972278,40FT Standard,Ningbo,China,Los Angeles,USA,21,In Transit,633,Sporting Goods,116915.1
+CONT805766,40FT Standard,Ningbo,China,Los Angeles,USA,21,In Transit,238,Unknown,20401.36
+CONT435045,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,177,Sporting Goods,13586.52
+CONT235333,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,499,Apparel & Accessories,6511.95
+CONT948779,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,118,Hardware,23583.48
+CONT994536,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,813,Apparel & Accessories,129998.7
+CONT774125,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,56,Hardware,9942.80
+CONT964988,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,287,Unknown,29503.6
+CONT704219,20FT Reefer,Dalian,China,Seattle,USA,17,Ready for Pickup,966,Unknown,130216.8
+CONT828934,40FT High Cube,Xiamen,China,Oakland,USA,21,In Transit,836,Apparel & Accessories,83482.96
+CONT183142,40FT High Cube,Xiamen,China,Oakland,USA,21,In Transit,579,Unknown,20456.07
+CONT307690,40FT High Cube,Xiamen,China,Oakland,USA,21,In Transit,204,Apparel & Accessories,35349.12
+CONT420771,40FT High Cube,Xiamen,China,Oakland,USA,21,In Transit,923,Unknown,25622.48
+CONT981489,40FT High Cube,Xiamen,China,Oakland,USA,21,In Transit,264,Apparel & Accessories,42435.36
+CONT204053,40FT High Cube,Xiamen,China,Oakland,USA,21,In Transit,873,Electronics,173840.49
+CONT607956,20FT Reefer,Shenzhen,China,Charleston,USA,17,In Transit,750,Toys & Games,138007.50
+CONT369337,20FT Reefer,Shenzhen,China,Charleston,USA,17,In Transit,541,Vehicles & Parts,8353.04
+CONT339675,20FT Reefer,Shenzhen,China,Charleston,USA,17,In Transit,62,Unknown,4592.96
+CONT789182,20FT Reefer,Shenzhen,China,Charleston,USA,17,In Transit,501,Unknown,68942.61
+CONT209480,20FT Reefer,Shenzhen,China,Charleston,USA,17,In Transit,838,Electronics,82299.98
+CONT967551,20FT Reefer,Shenzhen,China,Charleston,USA,17,In Transit,530,Home & Garden,42903.50
+CONT280936,40FT High Cube,Dalian,China,Los Angeles,USA,16,Delivered,560,Apparel & Accessories,81368.0
+CONT804870,40FT High Cube,Dalian,China,Los Angeles,USA,16,Delivered,848,Apparel & Accessories,136638.24
+CONT413234,40FT High Cube,Dalian,China,Los Angeles,USA,16,Delivered,489,Home & Garden,94054.26
+CONT630424,40FT High Cube,Dalian,China,Los Angeles,USA,16,Delivered,654,Electronics,108838.68
+CONT989362,40FT High Cube,Dalian,China,Los Angeles,USA,16,Delivered,646,Health & Beauty,99367.72
+CONT243006,40FT High Cube,Dalian,China,Los Angeles,USA,16,Delivered,995,Unknown,170652.45
+CONT890312,45FT High Cube,Xiamen,China,Savannah,USA,26,Delivered,750,Unknown,117892.50
+CONT336234,45FT High Cube,Xiamen,China,Savannah,USA,26,Delivered,888,Electronics,170584.8
+CONT512621,45FT High Cube,Xiamen,China,Savannah,USA,26,Delivered,463,Vehicles & Parts,21867.49
+CONT197835,20FT Reefer,Xiamen,China,New York,USA,22,In Transit,634,Unknown,34996.8
+CONT242657,20FT Reefer,Xiamen,China,New York,USA,22,In Transit,561,Unknown,39623.43
+CONT958041,20FT Reefer,Xiamen,China,New York,USA,22,In Transit,472,Apparel & Accessories,70554.56
+CONT137766,20FT Reefer,Xiamen,China,New York,USA,22,In Transit,539,Health & Beauty,15113.56
+CONT357794,20FT Reefer,Xiamen,China,New York,USA,22,In Transit,269,Apparel & Accessories,6294.6
+CONT481889,20FT Reefer,Xiamen,China,New York,USA,22,In Transit,578,Unknown,82180.04
+CONT622898,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,772,Unknown,121752.12
+CONT150654,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,930,Home & Garden,173482.20
+CONT844982,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,973,Unknown,105755.37
+CONT944441,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,355,Unknown,19709.60
+CONT318025,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,139,Home & Garden,24387.55
+CONT678742,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,943,Apparel & Accessories,168957.31
+CONT144615,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,605,Unknown,104332.25
+CONT504836,20FT Reefer,Ningbo,China,Los Angeles,USA,16,Customs Clearance,971,Unknown,175440.28
+CONT270380,20FT Standard,Tianjin,China,Los Angeles,USA,27,Arrived at Port,922,Unknown,142209.28
+CONT420517,20FT Standard,Tianjin,China,Los Angeles,USA,27,Arrived at Port,148,Unknown,14616.48
+CONT676352,20FT Standard,Tianjin,China,Los Angeles,USA,27,Arrived at Port,403,Unknown,14177.54
+CONT802124,20FT Standard,Tianjin,China,Los Angeles,USA,27,Arrived at Port,439,Arts & Entertainment,49563.1
+CONT723694,20FT Standard,Tianjin,China,Los Angeles,USA,27,Arrived at Port,74,Unknown,5519.66
+CONT113334,20FT Standard,Tianjin,China,Los Angeles,USA,27,Arrived at Port,195,Unknown,20350.20
+CONT180355,20FT Reefer,Shanghai,China,Long Beach,USA,21,Delivered,529,Vehicles & Parts,89850.65
+CONT422995,20FT Reefer,Shanghai,China,Long Beach,USA,21,Delivered,784,Unknown,50238.72
+CONT321797,20FT Reefer,Shanghai,China,Long Beach,USA,21,Delivered,411,Apparel & Accessories,11253.18
+CONT313745,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,60,Apparel & Accessories,2289.00
+CONT737589,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,746,Home & Garden,116711.70
+CONT701368,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,483,Unknown,50845.41
+CONT679066,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,891,Hardware,83157.03
+CONT197282,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,866,Unknown,52566.2
+CONT683586,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,913,Apparel & Accessories,40637.63
+CONT852953,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,65,Apparel & Accessories,1168.05
+CONT273180,20FT Standard,Tianjin,China,Long Beach,USA,21,In Transit,972,Unknown,183134.52
+CONT657984,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,998,Apparel & Accessories,197384.44
+CONT228774,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,703,Mature,90201.93
+CONT840615,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,112,Home & Garden,12242.72
+CONT502824,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,954,Apparel & Accessories,81767.34
+CONT544421,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,864,Unknown,105511.68
+CONT358942,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,317,Home & Garden,61114.43
+CONT747180,20FT Standard,Tianjin,China,Charleston,USA,25,Delivered,246,Luggage & Bags,7547.28
+CONT804961,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,62,Unknown,4399.52
+CONT634838,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,677,Apparel & Accessories,47315.53
+CONT261525,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,212,Unknown,7042.64
+CONT208065,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,736,Apparel & Accessories,127835.84
+CONT630211,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,615,Home & Garden,30165.75
+CONT710083,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,894,Electronics,56286.24
+CONT824241,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,171,Unknown,24576.12
+CONT719561,40FT Standard,Ningbo,China,Oakland,USA,20,In Transit,953,Health & Beauty,189923.37
+CONT734015,45FT High Cube,Dalian,China,Oakland,USA,15,In Transit,919,Unknown,146902.15
+CONT469550,45FT High Cube,Dalian,China,Oakland,USA,15,In Transit,695,Apparel & Accessories,107864.0
+CONT635904,45FT High Cube,Dalian,China,Oakland,USA,15,In Transit,62,Health & Beauty,4777.72
+CONT298955,45FT High Cube,Dalian,China,Oakland,USA,15,In Transit,513,Unknown,26265.6
+CONT148745,45FT High Cube,Dalian,China,Oakland,USA,15,In Transit,855,Unknown,34849.80
+CONT734979,45FT High Cube,Dalian,China,Oakland,USA,15,In Transit,696,Unknown,122892.72
+CONT676396,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,371,Unknown,9397.43
+CONT195791,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,550,Unknown,70884.00
+CONT166855,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,755,Unknown,10788.95
+CONT492326,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,337,Apparel & Accessories,27991.22
+CONT242364,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,924,Apparel & Accessories,102822.72
+CONT650300,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,862,Apparel & Accessories,33911.08
+CONT712479,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,588,Apparel & Accessories,40530.84
+CONT689910,20FT Standard,Guangzhou,China,Savannah,USA,16,In Transit,483,Home & Garden,85389.57
+CONT730037,45FT High Cube,Shenzhen,China,Los Angeles,USA,22,Delivered,304,Vehicles & Parts,54613.60
+CONT834732,45FT High Cube,Shenzhen,China,Los Angeles,USA,22,Delivered,121,Unknown,6599.34
+CONT318511,45FT High Cube,Shenzhen,China,Los Angeles,USA,22,Delivered,482,Unknown,82359.34
+CONT753925,45FT High Cube,Shenzhen,China,Los Angeles,USA,22,Delivered,173,Apparel & Accessories,27077.96
+CONT504189,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,555,Unknown,73448.70
+CONT945190,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,847,Apparel & Accessories,143735.9
+CONT353537,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,919,Unknown,24381.07
+CONT607537,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,409,Hardware,62057.57
+CONT544409,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,781,Hardware,143235.4
+CONT560168,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,815,Apparel & Accessories,84980.05
+CONT782826,20FT Reefer,Qingdao,China,Charleston,USA,17,Customs Clearance,566,Unknown,10606.84
+CONT556075,45FT High Cube,Guangzhou,China,New York,USA,16,In Transit,269,Apparel & Accessories,32091.7
+CONT278511,45FT High Cube,Guangzhou,China,New York,USA,16,In Transit,797,Hardware,44424.78
+CONT847096,45FT High Cube,Guangzhou,China,New York,USA,16,In Transit,567,Unknown,105541.38
+CONT585587,45FT High Cube,Guangzhou,China,New York,USA,16,In Transit,234,Cameras & Optics,31302.18
+CONT508981,20FT Reefer,Shenzhen,China,Long Beach,USA,24,Arrived at Port,139,Sporting Goods,3823.89
+CONT766989,20FT Reefer,Shenzhen,China,Long Beach,USA,24,Arrived at Port,593,Home & Garden,65923.81
+CONT163377,20FT Reefer,Shenzhen,China,Long Beach,USA,24,Arrived at Port,637,Apparel & Accessories,46857.72
+CONT158175,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,191,Apparel & Accessories,7979.98
+CONT181726,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,308,Apparel & Accessories,3255.56
+CONT601348,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,214,Apparel & Accessories,4881.34
+CONT772481,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,707,Home & Garden,112618.03
+CONT459677,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,852,Electronics,123190.68
+CONT547509,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,426,Unknown,11817.24
+CONT844518,40FT Standard,Dalian,China,New York,USA,17,Ready for Pickup,121,Apparel & Accessories,6462.61
+CONT746351,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,452,Apparel & Accessories,14721.64
+CONT394129,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,429,Electronics,32689.8
+CONT901918,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,463,Apparel & Accessories,76871.89
+CONT197505,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,860,Apparel & Accessories,61739.40
+CONT610834,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,662,Electronics,56984.96
+CONT906753,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,806,Home & Garden,4682.86
+CONT717143,20FT Standard,Shenzhen,China,Savannah,USA,26,Delivered,337,Unknown,51102.68
+CONT805947,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,111,Health & Beauty,11680.53
+CONT339401,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,155,Apparel & Accessories,18054.40
+CONT618005,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,975,Hardware,116200.50
+CONT671576,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,629,Unknown,42249.93
+CONT407499,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,112,Unknown,12724.32
+CONT252663,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,214,Apparel & Accessories,23332.42
+CONT996078,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,879,Mature,173664.03
+CONT748395,40FT Standard,Tianjin,China,Los Angeles,USA,28,In Transit,660,Unknown,128779.20
+CONT861641,20FT Reefer,Dalian,China,Los Angeles,USA,18,Delivered,179,Apparel & Accessories,16783.04
+CONT483258,20FT Reefer,Dalian,China,Los Angeles,USA,18,Delivered,634,Unknown,59374.10
+CONT355152,20FT Reefer,Dalian,China,Los Angeles,USA,18,Delivered,306,Apparel & Accessories,42240.24

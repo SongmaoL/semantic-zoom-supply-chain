@@ -1,0 +1,10 @@
+/* Clean Bootstrap theme - matching assignment-5 design */
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background: #f8f9fa;
+  min-height: 100vh;
+}
+
+#app {
+  min-height: 100vh;
+}
