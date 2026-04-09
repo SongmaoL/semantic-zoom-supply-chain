@@ -2,7 +2,7 @@
 
 A multi-scale visual analytics dashboard that combines **Semantic Zooming** with **Skeleton-Based Edge Bundling (SBEB)** to visualize high-density supply chain networks. Built with Vue 3, Deck.gl, and D3.js.
 
-**[Live Demo](https://songmaol.github.io/semantic-zoom-supply-chain/)** | **[Video](https://youtu.be/TaCHIX6fUY0)**
+**[Live Demo](https://songmaol.github.io/semantic-zoom-supply-chain/)**
 
 ---
 
